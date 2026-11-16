@@ -55,6 +55,13 @@ python runtime/run_followup.py encoder_coverage.py --phase encode
 
 Encoder provider URLs, immutable revisions and file hashes are in `provenance/ENCODER_DOWNLOAD_MANIFEST.json`. The journal generator uses the released MiniLM phrase embeddings and five generated worlds. Its empirical clock-loading dependency is retained in `experiments/added_experiments_20261104/experiments/irregular_fine`. The journal calibration is implemented in `experiments/review_followup_20261105/neural_calibration.py`.
 
+The original GPT-2 cache identities, token limits and immutable revision are recorded in `provenance/GPT2_ENCODING_IDENTITIES.json`. Regenerate those caches with the retained encoder script after obtaining the benchmark inputs.
+
+```bash
+python runtime/phase3_prototype/scripts/cache_timeimm_text_embeddings.py --data-root runtime/phase3_prototype/external/Time-IMM/data --datasets ClusterTrace CESNET EPA-Air FNSPID --model-id openai-community/gpt2 --revision 607a30d783dfa663caf39e06633721c8d4cfcd7e --max-length 320 --device cuda
+python runtime/phase3_prototype/scripts/cache_timeimm_text_embeddings.py --data-root runtime/phase3_prototype/external/Time-IMM/data --datasets RepoHealth --model-id openai-community/gpt2 --revision 607a30d783dfa663caf39e06633721c8d4cfcd7e --max-length 1024 --device cuda
+```
+
 ## Figures and manuscript records
 
 `manuscript/source_data` contains the complete figure records and paired summaries. `figure_source` contains the plotting sources and editable vector figures. The article and supplementary manuscript are supplied with the journal submission.
