@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\source_execution.py", line 197, in <module>
+    if args.phase in ['regression','all']:regression()
+                                          ^^^^^^^^^^^^
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\source_execution.py", line 40, in regression
+    released=module_from(parsepath,'released_upstream_parser')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\source_execution.py", line 23, in module_from
+    spec=importlib.util.spec_from_file_location(name,path);mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod);return mod
+                                                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\03_原始代码_数据_训练结果\phase3_prototype\external\IMM-TSF\lib\parse_datasets.py", line 10, in <module>
+    from prettytable import PrettyTable
+ModuleNotFoundError: No module named 'prettytable'

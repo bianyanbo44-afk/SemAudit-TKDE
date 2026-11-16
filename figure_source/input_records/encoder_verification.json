@@ -1,0 +1,6 @@
+{
+  "prediction_cells": 270,
+  "maximum_mse_replay_error": 1.3112541319415527e-07,
+  "all_initializations_paired": true,
+  "all_sample_target_mask_invariants": true
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.9094037966025477,
+    "altered": 1.9023170297476726,
+    "change": -0.371150767977143
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.9054792562052507,
+    "altered": 1.902102975472994,
+    "change": -0.17718800775510202
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.9094017356820687,
+    "altered": 1.9023074701356515,
+    "change": -0.37154389324376774
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.9094037966025477,
+    "altered": 1.909226786645639,
+    "change": -0.009270430760831373
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.9054792562052507,
+    "altered": 1.9061341971227095,
+    "change": 0.03437145355038285
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.9094017356820687,
+    "altered": 1.9094009777410341,
+    "change": -3.969521030788861e-05
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.9094037966025477,
+    "altered": 1.9091627233118496,
+    "change": -0.012625579310518855
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.9054792562052507,
+    "altered": 1.9094035585568059,
+    "change": 0.20594831136447986
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.9094017356820687,
+    "altered": 1.9094035453540033,
+    "change": 9.47769084268093e-05
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 53,
+    "canonical": 1.9094037966025477,
+    "altered": 1.9091672151215944,
+    "change": -0.012390332593569068
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 67,
+    "canonical": 1.9054792562052507,
+    "altered": 1.9055310877194147,
+    "change": 0.0027201300667640677
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 79,
+    "canonical": 1.9094017356820687,
+    "altered": 1.9094016362654498,
+    "change": -5.206689460858006e-06
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 3.228319787681048,
+    "altered": 3.652907094858875,
+    "change": 13.151959381409815
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 3.3810626002179434,
+    "altered": 4.342917333948577,
+    "change": 28.448297102474015
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 3.6583474441035175,
+    "altered": 3.805598453399108,
+    "change": 4.025069011226034
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 3.228319787681048,
+    "altered": 3.2261048323112145,
+    "change": -0.06861015994405069
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 3.3810626002179434,
+    "altered": 3.4025817428531098,
+    "change": 0.636460934907839
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 3.6583474441035175,
+    "altered": 3.562166433421721,
+    "change": -2.629083545271783
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 3.228319787681048,
+    "altered": 3.3919691270495425,
+    "change": 5.0691799490547504
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 3.3810626002179434,
+    "altered": 3.1410737675683746,
+    "change": -7.098029851150909
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 3.6583474441035175,
+    "altered": 3.3234659639475748,
+    "change": -9.153900368203159
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.8877720616052267,
+    "altered": 1.912021249100996,
+    "change": 1.2845400135411231
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.8031469800103643,
+    "altered": 1.8835725103580545,
+    "change": 4.4602870004101325
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.8766715067520956,
+    "altered": 2.059780387270636,
+    "change": 9.757108788604242
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.8877720616052267,
+    "altered": 1.887158114448419,
+    "change": -0.03252231396440782
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.8031469800103643,
+    "altered": 1.8020532449552404,
+    "change": -0.06065701061804753
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.8766715067520956,
+    "altered": 1.8640595352225946,
+    "change": -0.6720393784487193
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.8877720616052267,
+    "altered": 1.836825912589108,
+    "change": -2.6987447294244697
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.8031469800103643,
+    "altered": 1.9048891330081452,
+    "change": 5.64247696531073
+  },
+  {
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.8766715067520956,
+    "altered": 1.879132708530908,
+    "change": 0.1311471810573768
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.8346195631514295,
+    "altered": 1.8242318147232424,
+    "change": -0.5662072201139895
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.852237569039866,
+    "altered": 1.841760515665084,
+    "change": -0.5656430659816996
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.8399385664033279,
+    "altered": 1.8489129630240442,
+    "change": 0.48775523186403247
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.8346195631514295,
+    "altered": 1.8958245221013545,
+    "change": 3.336111757403799
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.852237569039866,
+    "altered": 1.911417821984362,
+    "change": 3.195068166939998
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.8399385664033279,
+    "altered": 1.8835468202425787,
+    "change": 2.370092927857656
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.8346195631514295,
+    "altered": 1.8445235119720351,
+    "change": 0.5398366516703367
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.852237569039866,
+    "altered": 1.8254257338357092,
+    "change": -1.4475375973534088
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.8399385664033279,
+    "altered": 1.8207036591420755,
+    "change": -1.045410298608627
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 53,
+    "canonical": 1.8346195631514295,
+    "altered": 1.8353384368727959,
+    "change": 0.039183803323862655
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 67,
+    "canonical": 1.852237569039866,
+    "altered": 1.8520869534243285,
+    "change": -0.008131549540678209
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 79,
+    "canonical": 1.8399385664033279,
+    "altered": 1.8399808177351828,
+    "change": 0.0022963447055503097
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.5477751361192633,
+    "altered": 1.5542936962285232,
+    "change": 0.4211567919099587
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.4618391874821874,
+    "altered": 1.4720211755837433,
+    "change": 0.6965190281355741
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.3851197419694619,
+    "altered": 1.3857310154940543,
+    "change": 0.044131457091449444
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.5477751361192633,
+    "altered": 1.46928914575736,
+    "change": -5.070891018361441
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.4618391874821874,
+    "altered": 1.3749924297984057,
+    "change": -5.940924174659939
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.3851197419694619,
+    "altered": 1.3827016877467249,
+    "change": -0.17457365955226634
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.5477751361192633,
+    "altered": 1.5477751361192633,
+    "change": 0.0
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.4618391874821874,
+    "altered": 1.4618391874821874,
+    "change": 0.0
+  },
+  {
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.3851197419694619,
+    "altered": 1.39464510912142,
+    "change": 0.6876926855734746
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.8170957127464835,
+    "altered": 1.817086324448655,
+    "change": -0.0005166650145408709
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.820480925618965,
+    "altered": 1.8229464235178021,
+    "change": 0.13543113054035097
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.816827776271899,
+    "altered": 1.8194323466970252,
+    "change": 0.14335813548991594
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.8170957127464835,
+    "altered": 1.8169618222689923,
+    "change": -0.0073683778213788935
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.820480925618965,
+    "altered": 1.8198430841670472,
+    "change": -0.03503697528172844
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.816827776271899,
+    "altered": 1.8171714909924426,
+    "change": 0.018918398597412286
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.8170957127464835,
+    "altered": 1.68847145520578,
+    "change": -7.078562600661908
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.820480925618965,
+    "altered": 1.7025859119145188,
+    "change": -6.476036746408739
+  },
+  {
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.816827776271899,
+    "altered": 1.6924875324716333,
+    "change": -6.843810152187887
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.226543920542407,
+    "altered": 1.2282583316488425,
+    "change": 0.13977576161132496
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.2081867233354895,
+    "altered": 1.197164035936092,
+    "change": -0.9123331010430835
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.2282583395547426,
+    "altered": 1.2282583401611786,
+    "change": 4.937365316304829e-08
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.226543920542407,
+    "altered": 1.2265711313966041,
+    "change": 0.0022184981509002473
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.2081867233354895,
+    "altered": 1.210285871498392,
+    "change": 0.17374368732568604
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.2282583395547426,
+    "altered": 1.2282583344413838,
+    "change": -4.1630971944439937e-07
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.226543920542407,
+    "altered": 1.212089971318722,
+    "change": -1.1784289972504967
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.2081867233354895,
+    "altered": 1.219603947882654,
+    "change": 0.9449884133509131
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.2282583395547426,
+    "altered": 1.2282583305484973,
+    "change": -7.332533405270841e-07
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 53,
+    "canonical": 1.226543920542407,
+    "altered": 1.2114750881923413,
+    "change": -1.228560355458109
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 67,
+    "canonical": 1.2081867233354895,
+    "altered": 1.1874716383951753,
+    "change": -1.7145598888162907
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 79,
+    "canonical": 1.2282583395547426,
+    "altered": 1.228258340801769,
+    "change": 1.0152802891029983e-07
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.4737307675346294,
+    "altered": 1.3024889855628574,
+    "change": -11.61961097264994
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.4998465808778623,
+    "altered": 1.3801133501812297,
+    "change": -7.983031879604148
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.473859232967069,
+    "altered": 1.3432453326951534,
+    "change": -8.862033588443376
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.4737307675346294,
+    "altered": 1.4855789458288542,
+    "change": 0.8039581282573984
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.4998465808778623,
+    "altered": 1.5058530070605372,
+    "change": 0.4004693719513175
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.473859232967069,
+    "altered": 1.508020777131184,
+    "change": 2.3178295050161193
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.4737307675346294,
+    "altered": 1.5109578598788023,
+    "change": 2.5260443199166716
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.4998465808778623,
+    "altered": 1.500310689351924,
+    "change": 0.030943729844029086
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.473859232967069,
+    "altered": 1.4818062771528513,
+    "change": 0.5391996744345704
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.2016094286738197,
+    "altered": 1.1586227233985322,
+    "change": -3.577427427706739
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.202857172011116,
+    "altered": 1.1590100560254513,
+    "change": -3.6452470838540765
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.2004936507864212,
+    "altered": 1.1616036423019003,
+    "change": -3.239501388370095
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.2016094286738197,
+    "altered": 1.1991487001058299,
+    "change": -0.2047860568725461
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.202857172011116,
+    "altered": 1.2016978056354009,
+    "change": -0.09638437569248808
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.2004936507864212,
+    "altered": 1.2004439321016824,
+    "change": -0.004141520007725805
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.2016094286738197,
+    "altered": 1.196874870811937,
+    "change": -0.39401803522032064
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.202857172011116,
+    "altered": 1.1942271747406734,
+    "change": -0.7174581879919917
+  },
+  {
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.2004936507864212,
+    "altered": 1.1998663524413802,
+    "change": -0.05225336632393833
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 0.3209356809612807,
+    "altered": 0.32093567409811896,
+    "change": -2.138485113456773e-06
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 0.3209356858098455,
+    "altered": 0.32093568134877726,
+    "change": -1.3900193821641495e-06
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 0.32092676090640054,
+    "altered": 0.32093567533684736,
+    "change": 0.0027777148972053974
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 0.3209356809612807,
+    "altered": 0.3209356809874618,
+    "change": 8.157727194335906e-09
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 0.3209356858098455,
+    "altered": 0.32093568648439647,
+    "change": 2.1018260058370737e-07
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 0.32092676090640054,
+    "altered": 0.3209261704750262,
+    "change": -0.0001839769836208417
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 0.3209356809612807,
+    "altered": 0.32093567788412986,
+    "change": -9.588060941777568e-07
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 0.3209356858098455,
+    "altered": 0.32093237522698437,
+    "change": -0.0010315408997827573
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 0.32092676090640054,
+    "altered": 0.3209356842443519,
+    "change": 0.002780490454015344
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 53,
+    "canonical": 0.3209356809612807,
+    "altered": 0.3209356807222886,
+    "change": -7.446728988467202e-08
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 67,
+    "canonical": 0.3209356858098455,
+    "altered": 0.32093568577735826,
+    "change": -1.0122662128488748e-08
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 79,
+    "canonical": 0.32092676090640054,
+    "altered": 0.32091732673740725,
+    "change": -0.0029396641671916228
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 4.329890652037798,
+    "altered": 1.6391547752276219,
+    "change": -62.1432755015146
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 3.381886265592996,
+    "altered": 1.4697130303647328,
+    "change": -56.54161864290175
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 3.6368938553774917,
+    "altered": 1.8212649145809936,
+    "change": -49.92251665832696
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 4.329890652037798,
+    "altered": 3.8667932954647477,
+    "change": -10.69535916236361
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 3.381886265592996,
+    "altered": 3.342406143804091,
+    "change": -1.1673994536886867
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 3.6368938553774917,
+    "altered": 4.359900118061768,
+    "change": 19.879773549487656
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 4.329890652037798,
+    "altered": 4.329890652037798,
+    "change": 0.0
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 3.381886265592996,
+    "altered": 3.2721542626562514,
+    "change": -3.2446982044650117
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 3.6368938553774917,
+    "altered": 3.6341819730697225,
+    "change": -0.07456589099402566
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 0.28377442471591074,
+    "altered": 0.23933178658514528,
+    "change": -15.661255652357468
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 0.26840101010874373,
+    "altered": 0.23127244943956018,
+    "change": -13.833241780327416
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 0.25251447920649067,
+    "altered": 0.23336966946877613,
+    "change": -7.5816681078549575
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 0.28377442471591074,
+    "altered": 0.28508906899278563,
+    "change": 0.4632708808029443
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 0.26840101010874373,
+    "altered": 0.27768295396997295,
+    "change": 3.4582373059880056
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 0.25251447920649067,
+    "altered": 0.25690880715024395,
+    "change": 1.7402281079335118
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 0.28377442471591074,
+    "altered": 0.2857615381477611,
+    "change": 0.7002440173527589
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 0.26840101010874373,
+    "altered": 0.255337439768135,
+    "change": -4.867183746930004
+  },
+  {
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 0.25251447920649067,
+    "altered": 0.28153616132012077,
+    "change": 11.493076438558585
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.408640387637438,
+    "altered": 1.4108407397953686,
+    "change": 0.15620396640912657
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.4112343670547527,
+    "altered": 1.4101566044973102,
+    "change": -0.07637020346179707
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.408697469304182,
+    "altered": 1.408937770712775,
+    "change": 0.017058411321750056
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.408640387637438,
+    "altered": 1.4052475794383708,
+    "change": -0.24085694467114366
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.4112343670547527,
+    "altered": 1.4102291234626025,
+    "change": -0.07123151303692352
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.408697469304182,
+    "altered": 1.411253970764832,
+    "change": 0.1814798078619865
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.408640387637438,
+    "altered": 1.408640387637438,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.4112343670547527,
+    "altered": 1.4112343670547527,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.408697469304182,
+    "altered": 1.408697469304182,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 53,
+    "canonical": 1.408640387637438,
+    "altered": 1.4052442609175557,
+    "change": -0.2410925279217842
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 67,
+    "canonical": 1.4112343670547527,
+    "altered": 1.4075293871684598,
+    "change": -0.2625346981894454
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "variant": "released_mixed_units",
+    "seed": 79,
+    "canonical": 1.408697469304182,
+    "altered": 1.4090741323147244,
+    "change": 0.02673838909701812
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 2.033458511025439,
+    "altered": 2.4980470111536315,
+    "change": 22.847208222306364
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 2.1128350526171853,
+    "altered": 2.4615592196696516,
+    "change": 16.505035100610385
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 2.0805178327208678,
+    "altered": 1.464371734349257,
+    "change": -29.615035674355394
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 2.033458511025439,
+    "altered": 2.033539705933559,
+    "change": 0.003992946385669829
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 2.1128350526171853,
+    "altered": 2.0740986194053024,
+    "change": -1.833386527921325
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 2.0805178327208678,
+    "altered": 2.08534564504392,
+    "change": 0.23204859132297542
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 2.033458511025439,
+    "altered": 2.033458511025439,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 2.1128350526171853,
+    "altered": 2.1128350526171853,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 2.0805178327208678,
+    "altered": 2.0805178327208678,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 53,
+    "canonical": 1.323624161225409,
+    "altered": 1.0887454888722778,
+    "change": -17.7451182317253
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 67,
+    "canonical": 1.1935486472929253,
+    "altered": 1.0635091512563148,
+    "change": -10.895198644106516
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "full_entity_normalization",
+    "seed": 79,
+    "canonical": 1.1588950081856628,
+    "altered": 1.1099830958616157,
+    "change": -4.220564587694825
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 53,
+    "canonical": 1.323624161225409,
+    "altered": 1.2170367525295203,
+    "change": -8.052694399081552
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 67,
+    "canonical": 1.1935486472929253,
+    "altered": 1.129085882451628,
+    "change": -5.400933174152935
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "cache_text_origin",
+    "seed": 79,
+    "canonical": 1.1588950081856628,
+    "altered": 1.2153481950797667,
+    "change": 4.871294336014575
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 53,
+    "canonical": 1.323624161225409,
+    "altered": 1.323624161225409,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 67,
+    "canonical": 1.1935486472929253,
+    "altered": 1.1935486472929253,
+    "change": 0.0
+  },
+  {
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "variant": "retain_empty_training_windows",
+    "seed": 79,
+    "canonical": 1.1588950081856628,
+    "altered": 1.1588950081856628,
+    "change": 0.0
+  }
+]

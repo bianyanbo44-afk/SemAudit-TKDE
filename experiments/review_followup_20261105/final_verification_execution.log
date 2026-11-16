@@ -1,0 +1,48 @@
+history verified summary cells 30
+encoders verified summary cells 30
+calibration verified summary cells 15
+source verified summary cells 50
+RELOAD encoder minilm ClusterTrace immtsf_recavg_gradd 9
+RELOAD encoder minilm ClusterTrace immtsf_t2v_xattn 18
+RELOAD encoder minilm ClusterTrace selective_ssm 27
+RELOAD encoder minilm CESNET immtsf_recavg_gradd 36
+RELOAD encoder minilm CESNET immtsf_t2v_xattn 45
+RELOAD encoder minilm CESNET selective_ssm 54
+RELOAD encoder minilm EPA-Air immtsf_recavg_gradd 63
+RELOAD encoder minilm EPA-Air immtsf_t2v_xattn 72
+RELOAD encoder minilm EPA-Air selective_ssm 81
+RELOAD encoder minilm FNSPID immtsf_recavg_gradd 90
+RELOAD encoder minilm FNSPID immtsf_t2v_xattn 99
+RELOAD encoder minilm FNSPID selective_ssm 108
+RELOAD encoder minilm RepoHealth immtsf_recavg_gradd 117
+RELOAD encoder minilm RepoHealth immtsf_t2v_xattn 126
+RELOAD encoder minilm RepoHealth selective_ssm 135
+RELOAD encoder finbert ClusterTrace immtsf_recavg_gradd 144
+RELOAD encoder finbert ClusterTrace immtsf_t2v_xattn 153
+RELOAD encoder finbert ClusterTrace selective_ssm 162
+RELOAD encoder finbert CESNET immtsf_recavg_gradd 171
+RELOAD encoder finbert CESNET immtsf_t2v_xattn 180
+RELOAD encoder finbert CESNET selective_ssm 189
+RELOAD encoder finbert EPA-Air immtsf_recavg_gradd 198
+RELOAD encoder finbert EPA-Air immtsf_t2v_xattn 207
+RELOAD encoder finbert EPA-Air selective_ssm 216
+RELOAD encoder finbert FNSPID immtsf_recavg_gradd 225
+RELOAD encoder finbert FNSPID immtsf_t2v_xattn 234
+RELOAD encoder finbert FNSPID selective_ssm 243
+RELOAD encoder finbert RepoHealth immtsf_recavg_gradd 252
+RELOAD encoder finbert RepoHealth immtsf_t2v_xattn 261
+RELOAD encoder finbert RepoHealth selective_ssm 270
+RELOAD calibration 1103 0.0 immtsf_recavg_gradd 9
+RELOAD calibration 1103 0.0 immtsf_t2v_xattn 18
+RELOAD calibration 1103 0.0 selective_ssm 27
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 86ddc3af-3ac9-4f56-bad9-d2d689c262c2)')' thrown while requesting HEAD https://huggingface.co/openai-community/gpt2/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+RELOAD calibration 1103 0.05 immtsf_recavg_gradd 36
+RELOAD calibration 1103 0.05 immtsf_t2v_xattn 45
+RELOAD calibration 1103 0.05 selective_ssm 54
+RELOAD calibration 1103 0.1 immtsf_recavg_gradd 63
+RELOAD calibration 1103 0.1 immtsf_t2v_xattn 72
+RELOAD calibration 1103 0.1 selective_ssm 81
+RELOAD calibration 1103 0.25 immtsf_recavg_gradd 90
+RELOAD calibration 1103 0.25 immtsf_t2v_xattn 99
+RELOAD calibration 1103 0.25 selective_ssm 108

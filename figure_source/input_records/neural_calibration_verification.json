@@ -1,0 +1,7 @@
+{
+  "prediction_cells": 1125,
+  "maximum_mse_replay_error": 2.2541754463034636e-08,
+  "all_initializations_paired": true,
+  "independent_entity_inference": true,
+  "holm_family_size": 75
+}

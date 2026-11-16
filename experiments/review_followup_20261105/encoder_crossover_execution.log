@@ -1,0 +1,67 @@
+ENCODER HISTORY minilm ClusterTrace immtsf_recavg_gradd 6
+ENCODER HISTORY minilm ClusterTrace immtsf_t2v_xattn 12
+ENCODER HISTORY minilm ClusterTrace selective_ssm 18
+ENCODER HISTORY minilm CESNET immtsf_recavg_gradd 24
+ENCODER HISTORY minilm CESNET immtsf_t2v_xattn 30
+ENCODER HISTORY minilm CESNET selective_ssm 36
+ENCODER HISTORY minilm EPA-Air immtsf_recavg_gradd 42
+ENCODER HISTORY minilm EPA-Air immtsf_t2v_xattn 48
+ENCODER HISTORY minilm EPA-Air selective_ssm 54
+ENCODER HISTORY minilm FNSPID immtsf_recavg_gradd 60
+ENCODER HISTORY minilm FNSPID immtsf_t2v_xattn 66
+ENCODER HISTORY minilm FNSPID selective_ssm 72
+ENCODER HISTORY minilm RepoHealth immtsf_recavg_gradd 78
+ENCODER HISTORY minilm RepoHealth immtsf_t2v_xattn 84
+ENCODER HISTORY minilm RepoHealth selective_ssm 90
+ENCODER HISTORY finbert ClusterTrace immtsf_recavg_gradd 96
+ENCODER HISTORY finbert ClusterTrace immtsf_t2v_xattn 102
+ENCODER HISTORY finbert ClusterTrace selective_ssm 108
+ENCODER HISTORY finbert CESNET immtsf_recavg_gradd 114
+ENCODER HISTORY finbert CESNET immtsf_t2v_xattn 120
+ENCODER HISTORY finbert CESNET selective_ssm 126
+ENCODER HISTORY finbert EPA-Air immtsf_recavg_gradd 132
+ENCODER HISTORY finbert EPA-Air immtsf_t2v_xattn 138
+ENCODER HISTORY finbert EPA-Air selective_ssm 144
+ENCODER HISTORY finbert FNSPID immtsf_recavg_gradd 150
+ENCODER HISTORY finbert FNSPID immtsf_t2v_xattn 156
+ENCODER HISTORY finbert FNSPID selective_ssm 162
+ENCODER HISTORY finbert RepoHealth immtsf_recavg_gradd 168
+ENCODER HISTORY finbert RepoHealth immtsf_t2v_xattn 174
+ENCODER HISTORY finbert RepoHealth selective_ssm 180
+RELOAD encoder history minilm ClusterTrace immtsf_recavg_gradd 6
+RELOAD encoder history minilm ClusterTrace immtsf_t2v_xattn 12
+RELOAD encoder history minilm ClusterTrace selective_ssm 18
+RELOAD encoder history minilm CESNET immtsf_recavg_gradd 24
+RELOAD encoder history minilm CESNET immtsf_t2v_xattn 30
+RELOAD encoder history minilm CESNET selective_ssm 36
+RELOAD encoder history minilm EPA-Air immtsf_recavg_gradd 42
+RELOAD encoder history minilm EPA-Air immtsf_t2v_xattn 48
+RELOAD encoder history minilm EPA-Air selective_ssm 54
+RELOAD encoder history minilm FNSPID immtsf_recavg_gradd 60
+RELOAD encoder history minilm FNSPID immtsf_t2v_xattn 66
+RELOAD encoder history minilm FNSPID selective_ssm 72
+RELOAD encoder history minilm RepoHealth immtsf_recavg_gradd 78
+RELOAD encoder history minilm RepoHealth immtsf_t2v_xattn 84
+RELOAD encoder history minilm RepoHealth selective_ssm 90
+RELOAD encoder history finbert ClusterTrace immtsf_recavg_gradd 96
+RELOAD encoder history finbert ClusterTrace immtsf_t2v_xattn 102
+RELOAD encoder history finbert ClusterTrace selective_ssm 108
+RELOAD encoder history finbert CESNET immtsf_recavg_gradd 114
+RELOAD encoder history finbert CESNET immtsf_t2v_xattn 120
+RELOAD encoder history finbert CESNET selective_ssm 126
+RELOAD encoder history finbert EPA-Air immtsf_recavg_gradd 132
+RELOAD encoder history finbert EPA-Air immtsf_t2v_xattn 138
+RELOAD encoder history finbert EPA-Air selective_ssm 144
+RELOAD encoder history finbert FNSPID immtsf_recavg_gradd 150
+RELOAD encoder history finbert FNSPID immtsf_t2v_xattn 156
+RELOAD encoder history finbert FNSPID selective_ssm 162
+RELOAD encoder history finbert RepoHealth immtsf_recavg_gradd 168
+RELOAD encoder history finbert RepoHealth immtsf_t2v_xattn 174
+RELOAD encoder history finbert RepoHealth selective_ssm 180
+{
+  "prediction_sets": 2175,
+  "maximum_loss_replay_error": 2.08201900164795e-07,
+  "all_saved_values_finite": true,
+  "fixed_checkpoint_target_invariants": true,
+  "scope": "Saved-prediction and optional file-hash verification. Checkpoint reload records are supplied separately."
+}

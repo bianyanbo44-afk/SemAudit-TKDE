@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.downloads/
+.venv*/
+experiments/**/results/
+experiments/**/local_data/
+runtime/phase3_prototype/results/
+runtime/phase3_prototype/external/Time-IMM/data/
+runtime/wsdm_support/external_validation/models/
+*.aux
+*.out
+*.blg
+*.synctex.gz

@@ -1,0 +1,15 @@
+{
+  "question": "How do the original three neural families respond to known irregular text signal strength?",
+  "panels": {
+    "a": "Magnitude and cross-world variability of paired fixed-checkpoint response",
+    "b": "Probability of directional detection under the declared multiplicity adjustment"
+  },
+  "all_declared_cells_retained": true,
+  "worlds_per_cell": 5,
+  "error_bars": {
+    "a": "Student t 95% interval across five independently generated worlds",
+    "b": "Wilson 95% interval across five generated worlds"
+  },
+  "source_sha256": "d054fe37c0df111f074c1f01333c340652442c8c76aa8b909551e02e3d26f8f4",
+  "script_sha256": "6e923efdd3ad849a312cecdb84db2090df7415ce2d63ff38fd8427ce77cc4ca6"
+}

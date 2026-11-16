@@ -1,0 +1,10 @@
+test_four_outputs_and_independent_entities (__main__.DesignTests.test_four_outputs_and_independent_entities) ... ok
+test_historical_controls_preserve_units_multisets_and_empty_histories (__main__.DesignTests.test_historical_controls_preserve_units_multisets_and_empty_histories) ... ok
+test_nonempty_original_width_weights_and_outputs_unchanged (__main__.DesignTests.test_nonempty_original_width_weights_and_outputs_unchanged) ... ok
+test_original_family_forward_backward_with_empty_text_and_new_width (__main__.DesignTests.test_original_family_forward_backward_with_empty_text_and_new_width) ... ok
+test_strength_does_not_change_inputs_or_noise (__main__.DesignTests.test_strength_does_not_change_inputs_or_noise) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 9.147s
+
+OK

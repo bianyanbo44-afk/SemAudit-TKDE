@@ -1,0 +1,113 @@
+{
+  "tag": "tkde-materials-v1",
+  "repository": "https://github.com/bianyanbo44-afk/SemAudit-TKDE",
+  "assets": [
+    {
+      "name": "semaudit-training-01.zip",
+      "bytes": 275935505,
+      "sha256": "7a5ab44d2a5adf7347fa5b0a7d78dee5ee23c5ad7603fe73b7e563f03333995a",
+      "files": 491,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-01.zip"
+    },
+    {
+      "name": "semaudit-training-02.zip",
+      "bytes": 274263137,
+      "sha256": "c1aeda1238bfee2525757b36fb627c1d943ae3ebf859fca1c9eda5af54b58755",
+      "files": 426,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-02.zip"
+    },
+    {
+      "name": "semaudit-training-03.zip",
+      "bytes": 275266730,
+      "sha256": "be1e160d31a62d50c8ecd763af8a15caf47b0949db4c514338e123cf2c5eaa99",
+      "files": 332,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-03.zip"
+    },
+    {
+      "name": "semaudit-training-04.zip",
+      "bytes": 257758901,
+      "sha256": "5fdd58b622a3315e3d4205ceffa96c8df3a3569c9886068b592f1c9fa183b185",
+      "files": 832,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-04.zip"
+    },
+    {
+      "name": "semaudit-training-05.zip",
+      "bytes": 275706140,
+      "sha256": "4654f60dcca50c62d4fd5877a60237a3f95ad920f59ec56c22dffe71a99808ed",
+      "files": 469,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-05.zip"
+    },
+    {
+      "name": "semaudit-training-06.zip",
+      "bytes": 60034491,
+      "sha256": "f661bf597113b7780b5268b44d900ef66f11e9040f82c77dfbe19c99c8e4091e",
+      "files": 54,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-06.zip"
+    },
+    {
+      "name": "semaudit-training-07.zip",
+      "bytes": 47793139,
+      "sha256": "415475009a9607fa6e22df1388c8abfd1bfcc293bf8d455f0d0dca3aa72a85e3",
+      "files": 2,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-07.zip"
+    },
+    {
+      "name": "semaudit-training-08.zip",
+      "bytes": 179584439,
+      "sha256": "26f6d43fba043dd980d3a5142114a7f90d06a49e6b3879a6984f84d8d5753a2c",
+      "files": 358,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-08.zip"
+    },
+    {
+      "name": "semaudit-training-09.zip",
+      "bytes": 272601125,
+      "sha256": "8207e742717f5e37e68502222bfdfe44ed0211e9546e9c8b0905a5cc14b94892",
+      "files": 717,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-09.zip"
+    },
+    {
+      "name": "semaudit-training-10.zip",
+      "bytes": 274565032,
+      "sha256": "c16a98988ceb5825210bff1f6c12df46a13d19383b43634bb466c796dab6183f",
+      "files": 683,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-10.zip"
+    },
+    {
+      "name": "semaudit-training-11.zip",
+      "bytes": 274299594,
+      "sha256": "6c239b3997eb5cf67ae1249d07df167742dff1d25dd1a208e8a91e20efdc30cd",
+      "files": 691,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-11.zip"
+    },
+    {
+      "name": "semaudit-training-12.zip",
+      "bytes": 274715778,
+      "sha256": "4bea65dda3712a937254ec325848b5864454d2327ba27466c97b62fb3d033524",
+      "files": 516,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-12.zip"
+    },
+    {
+      "name": "semaudit-training-13.zip",
+      "bytes": 265951380,
+      "sha256": "72aded27cc491ed4298500543ce0e93526203e147ddc3bb0dd1d15e092d77557",
+      "files": 1229,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-13.zip"
+    },
+    {
+      "name": "semaudit-training-14.zip",
+      "bytes": 272820903,
+      "sha256": "cc9699acd304207842e5fa4f1f951eb3c08b01948f615118178e2ef8baa5372d",
+      "files": 213,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-14.zip"
+    },
+    {
+      "name": "semaudit-training-15.zip",
+      "bytes": 53210685,
+      "sha256": "6f35bd04869bf0e203ab7a9cf58cf9f9de2552bf062192f3e52f9a559a0ae09f",
+      "files": 42,
+      "url": "https://github.com/bianyanbo44-afk/SemAudit-TKDE/releases/download/tkde-materials-v1/semaudit-training-15.zip"
+    }
+  ],
+  "payload_files": 7055,
+  "payload_bytes": 4180870810
+}

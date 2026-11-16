@@ -1,0 +1,102 @@
+{
+  "classification": "exploratory post-review follow-up; no new untouched natural-data test claim",
+  "datasets": [
+    "ClusterTrace",
+    "CESNET",
+    "EPA-Air",
+    "FNSPID",
+    "RepoHealth"
+  ],
+  "families": [
+    "immtsf_recavg_gradd",
+    "immtsf_t2v_xattn",
+    "selective_ssm"
+  ],
+  "training_seeds": [
+    53,
+    67,
+    79
+  ],
+  "encoders": {
+    "minilm": {
+      "directory": "minilm",
+      "max_length": 256,
+      "batch_size": 32
+    },
+    "finbert": {
+      "directory": "finbert",
+      "max_length": 512,
+      "batch_size": 8
+    }
+  },
+  "strict_history": {
+    "seeds": [
+      53,
+      67,
+      79,
+      83,
+      97,
+      101,
+      113,
+      127,
+      139,
+      151
+    ],
+    "block_size": 4,
+    "mapping_seed": 20261105,
+    "conditions": [
+      "aligned",
+      "history_rotation",
+      "history_nearest_swap"
+    ]
+  },
+  "neural_calibration": {
+    "world_seeds": [
+      1103,
+      1217,
+      1321,
+      1429,
+      1543
+    ],
+    "strengths": [
+      0.0,
+      0.05,
+      0.1,
+      0.25,
+      1.0
+    ],
+    "entities_per_split": {
+      "train": 64,
+      "val": 16,
+      "test": 64
+    },
+    "queries_per_entity": 4,
+    "history_days": 7.0,
+    "horizon_days": 1.0,
+    "arrival_delay_mean_days": 0.15,
+    "noise_sd": 0.35,
+    "representation": "actual frozen MiniLM sentence embeddings, held-out templates",
+    "conditions": [
+      "aligned",
+      "shuffle",
+      "time_only"
+    ],
+    "primary_tests": "One-sided exact sign test on seed-averaged paired entity losses; Holm correction over 75 world-strength-family cells per primary contrast. Report effect intervals and all null/capability failures.",
+    "validation_gate": "aligned relative gain >1% over time-only; report raw results irrespective of gate",
+    "target_dimensions": 4,
+    "signal_coefficients": [
+      1.0,
+      -1.0,
+      0.5,
+      -0.5
+    ]
+  },
+  "source_variants": [
+    "full_entity_normalization",
+    "cache_text_origin",
+    "retain_empty_training_windows",
+    "released_mixed_units"
+  ],
+  "source_comparisons": "Three paired seeds across all five datasets and three families for the first three variants; mixed units applies only to RecAvg. Fixed canonical forecast population for paired evaluation, physical-unit losses reported when scales differ.",
+  "reporting": "All planned cells, failed fits and execution corrections retained. No selection of models, seeds or stopping budgets using follow-up test scores. Original per-family training budgets retained."
+}

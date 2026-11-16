@@ -1,0 +1,416 @@
+[
+  {
+    "window_id": 99,
+    "effect": -0.09812147269598367,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 100,
+    "effect": -0.2686893675830074,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 101,
+    "effect": 1.3291556065978791,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 102,
+    "effect": -0.871495564383069,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 103,
+    "effect": 2.077416577293919,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 104,
+    "effect": -0.1153838849547603,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 105,
+    "effect": -0.5912106625053286,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 106,
+    "effect": 0.1072570195304326,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 107,
+    "effect": 0.5745576074547456,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 108,
+    "effect": 0.9889051619349789,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 109,
+    "effect": -1.0793486457904993,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 110,
+    "effect": -0.8233110402776187,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 111,
+    "effect": 1.2807812944169592,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 112,
+    "effect": -1.051540963328077,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 113,
+    "effect": -0.7742707487270422,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 114,
+    "effect": -0.34712260403896994,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 115,
+    "effect": -0.20656757763976802,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 116,
+    "effect": -0.9812828593897597,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 117,
+    "effect": -0.23897981543739935,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 118,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  },
+  {
+    "window_id": 119,
+    "effect": 2.3021009062819333,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 120,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  },
+  {
+    "window_id": 121,
+    "effect": 0.25045828015967153,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 122,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  },
+  {
+    "window_id": 123,
+    "effect": 0.9362748077512231,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 200,
+    "effect": 0.3566508414476211,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 201,
+    "effect": 0.3521487964866841,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 202,
+    "effect": -0.3933348000919319,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 203,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  },
+  {
+    "window_id": 204,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  },
+  {
+    "window_id": 205,
+    "effect": 1.4067341605454526,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 206,
+    "effect": -0.041756772608917726,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 207,
+    "effect": -0.16420975539622387,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 208,
+    "effect": -0.19534488609829767,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 209,
+    "effect": 0.15331413172279115,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 210,
+    "effect": -0.251827256472753,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 211,
+    "effect": -1.5595542644796845,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 212,
+    "effect": 0.01542726527445447,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 213,
+    "effect": 0.005016153325977362,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 214,
+    "effect": 0.397289271679307,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 215,
+    "effect": -0.26791236261875245,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 216,
+    "effect": 0.09619779992697122,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 217,
+    "effect": -0.17585633769535927,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 218,
+    "effect": 0.43296920762555163,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 317,
+    "effect": -0.014685133000387358,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 318,
+    "effect": 1.2326226419828599,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 319,
+    "effect": -0.8250812912102942,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 320,
+    "effect": 0.5689285750812473,
+    "changed": true,
+    "selected": true
+  },
+  {
+    "window_id": 321,
+    "effect": -0.12642532054715672,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 322,
+    "effect": 0.05637207415502878,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 323,
+    "effect": 1.2407987072392823,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 324,
+    "effect": -0.5000697830727061,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 325,
+    "effect": 0.6311945387498953,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 326,
+    "effect": -0.9521372692717435,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 327,
+    "effect": -2.231891759014598,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 328,
+    "effect": -1.0356679839728677,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 329,
+    "effect": -1.084030229502953,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 330,
+    "effect": -0.19201221339573096,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 331,
+    "effect": -0.6776589588825148,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 332,
+    "effect": -1.388428923662155,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 333,
+    "effect": -1.2200498456344875,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 334,
+    "effect": 0.3783355402363323,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 335,
+    "effect": -1.120721074027037,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 336,
+    "effect": -1.2052836226237924,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 337,
+    "effect": 0.6086012379069764,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 338,
+    "effect": 0.3701304564318471,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 339,
+    "effect": -1.9349668152797412,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 340,
+    "effect": 0.21961156460613535,
+    "changed": true,
+    "selected": false
+  },
+  {
+    "window_id": 341,
+    "effect": 0.0,
+    "changed": false,
+    "selected": false
+  }
+]

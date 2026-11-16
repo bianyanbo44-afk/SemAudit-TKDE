@@ -1,0 +1,344 @@
+ENCODE minilm ClusterTrace 1c6afd5c227e89b8a29589f4: 247 notes
+ENCODE minilm ClusterTrace 35fc40d2844c0b899c1ceb1e: 194 notes
+ENCODE minilm ClusterTrace 7077ec572d50395cafcbcb7d: 247 notes
+ENCODE minilm CESNET 10.0.178.41: 6 notes
+ENCODE minilm CESNET 10.0.212.206: 8 notes
+ENCODE minilm CESNET 10.0.31.13: 6 notes
+ENCODE minilm CESNET 10.0.64.221: 8 notes
+ENCODE minilm CESNET 10.0.90.172: 9 notes
+ENCODE minilm CESNET firewall-3127: 8 notes
+ENCODE minilm CESNET firewall-8704: 7 notes
+ENCODE minilm CESNET router-1902: 7 notes
+ENCODE minilm CESNET router-7669: 8 notes
+ENCODE minilm CESNET server-1245: 6 notes
+ENCODE minilm CESNET switch-9995: 8 notes
+ENCODE minilm EPA-Air Bexar: 17 notes
+ENCODE minilm EPA-Air Dallas: 209 notes
+ENCODE minilm EPA-Air Denver: 213 notes
+ENCODE minilm EPA-Air Hillsborough: 73 notes
+ENCODE minilm EPA-Air Los_Angeles: 222 notes
+ENCODE minilm EPA-Air Maricopa: 99 notes
+ENCODE minilm EPA-Air Philadelphia: 203 notes
+ENCODE minilm EPA-Air Richmond: 208 notes
+ENCODE minilm FNSPID AMAT: 1654 notes
+ENCODE minilm FNSPID AMT: 2005 notes
+ENCODE minilm FNSPID DVN: 1617 notes
+ENCODE minilm FNSPID EA: 1803 notes
+ENCODE minilm FNSPID EXPE: 1441 notes
+ENCODE minilm FNSPID KO: 3006 notes
+ENCODE minilm FNSPID PEP: 2354 notes
+ENCODE minilm FNSPID TXN: 1757 notes
+ENCODE minilm FNSPID USO: 2777 notes
+ENCODE minilm FNSPID XLF: 2412 notes
+ENCODE minilm RepoHealth facebook_react: 3748 notes
+ENCODE minilm RepoHealth huggingface_transformers: 2025 notes
+Token indices sequence length is longer than the specified maximum sequence length for this model (538 > 512). Running this sequence through the model will result in indexing errors
+ENCODE minilm RepoHealth kubernetes_kubernetes: 3529 notes
+ENCODE minilm RepoHealth pytorch_pytorch: 3008 notes
+ENCODE finbert ClusterTrace 1c6afd5c227e89b8a29589f4: 247 notes
+ENCODE finbert ClusterTrace 35fc40d2844c0b899c1ceb1e: 194 notes
+ENCODE finbert ClusterTrace 7077ec572d50395cafcbcb7d: 247 notes
+ENCODE finbert CESNET 10.0.178.41: 6 notes
+ENCODE finbert CESNET 10.0.212.206: 8 notes
+ENCODE finbert CESNET 10.0.31.13: 6 notes
+ENCODE finbert CESNET 10.0.64.221: 8 notes
+ENCODE finbert CESNET 10.0.90.172: 9 notes
+ENCODE finbert CESNET firewall-3127: 8 notes
+ENCODE finbert CESNET firewall-8704: 7 notes
+ENCODE finbert CESNET router-1902: 7 notes
+ENCODE finbert CESNET router-7669: 8 notes
+ENCODE finbert CESNET server-1245: 6 notes
+ENCODE finbert CESNET switch-9995: 8 notes
+ENCODE finbert EPA-Air Bexar: 17 notes
+ENCODE finbert EPA-Air Dallas: 209 notes
+ENCODE finbert EPA-Air Denver: 213 notes
+ENCODE finbert EPA-Air Hillsborough: 73 notes
+ENCODE finbert EPA-Air Los_Angeles: 222 notes
+ENCODE finbert EPA-Air Maricopa: 99 notes
+ENCODE finbert EPA-Air Philadelphia: 203 notes
+ENCODE finbert EPA-Air Richmond: 208 notes
+ENCODE finbert FNSPID AMAT: 1654 notes
+ENCODE finbert FNSPID AMT: 2005 notes
+ENCODE finbert FNSPID DVN: 1617 notes
+ENCODE finbert FNSPID EA: 1803 notes
+ENCODE finbert FNSPID EXPE: 1441 notes
+ENCODE finbert FNSPID KO: 3006 notes
+ENCODE finbert FNSPID PEP: 2354 notes
+ENCODE finbert FNSPID TXN: 1757 notes
+ENCODE finbert FNSPID USO: 2777 notes
+ENCODE finbert FNSPID XLF: 2412 notes
+ENCODE finbert RepoHealth facebook_react: 3748 notes
+ENCODE finbert RepoHealth huggingface_transformers: 2025 notes
+Token indices sequence length is longer than the specified maximum sequence length for this model (538 > 512). Running this sequence through the model will result in indexing errors
+ENCODE finbert RepoHealth kubernetes_kubernetes: 3529 notes
+ENCODE finbert RepoHealth pytorch_pytorch: 3008 notes
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.9113473683824298, "seconds": 4.222840000002179}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.9093687340614445, "seconds": 1.8986760000007052}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.909643994731416, "seconds": 2.249875299999985}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.909403348530429, "seconds": 3.679263100002572}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.8977460973717777, "seconds": 1.712432100001024}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.9088845791714542, "seconds": 1.8705918999985442}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.9087097088075942, "seconds": 2.170228599999973}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.9094031997495782, "seconds": 1.6938225999983842}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.9094140180790424, "seconds": 1.397853499998746}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.2180104119487036, "seconds": 5.635858199999348}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.189253047363634, "seconds": 7.574090900001465}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.446746509292711, "seconds": 8.254530900001555}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 3.217547194085606, "seconds": 5.633811600000627}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 3.1970192857693944, "seconds": 7.942493399998057}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 3.8218409705081173, "seconds": 9.137876300002972}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 3.218266356858486, "seconds": 6.076107500000944}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 3.158084478632219, "seconds": 9.428538899999694}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 3.6324389280820224, "seconds": 9.329244299999118}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8958335360275143, "seconds": 56.5602856000005}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.8842356651905965, "seconds": 58.1470948999995}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.8924983779825666, "seconds": 45.481134000001475}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.8945315642455554, "seconds": 37.70984660000249}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.8511331956824286, "seconds": 57.12759030000234}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.8833648784613097, "seconds": 41.99905999999828}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.8935772179827168, "seconds": 42.987632200001826}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.8571556639580407, "seconds": 52.51385659999869}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.8814726757365328, "seconds": 41.350082799999655}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.8391647462634886, "seconds": 0.32565059999978985}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.8639640799264918, "seconds": 0.5058040999974764}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.845000471024497, "seconds": 0.24272819999896456}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.8650761786645425, "seconds": 0.40029370000047493}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.8487258009396725, "seconds": 0.3913857999978063}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.8850073327056776, "seconds": 0.40099490000284277}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.858425086453505, "seconds": 0.6745263000011619}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.8641047224661427, "seconds": 0.46539950000078534}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.8542732671956472, "seconds": 0.3901304999999411}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.514273364795318, "seconds": 1.2341713999994681}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.4888497327183519, "seconds": 1.07695479999893}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.3991095232383401, "seconds": 1.0628738000013982}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 1.5141997053338645, "seconds": 1.2809464000019943}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 1.488838077337413, "seconds": 0.9657186000004003}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 1.3990515999556414, "seconds": 0.8415514000007533}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 1.51465935734719, "seconds": 0.8711368999975093}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 1.4890766378073397, "seconds": 0.7614168999971298}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 1.3989849422096792, "seconds": 0.7194096999992325}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8171180910749203, "seconds": 9.708856400000514}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.816697097018033, "seconds": 10.079092200001469}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.81789037322114, "seconds": 16.072990199998458}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.8164833113050407, "seconds": 15.381391099999746}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.8164932693004054, "seconds": 13.767882799998915}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.8177292488955679, "seconds": 18.57605010000043}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.8174912825105918, "seconds": 23.565614099999948}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.8164330121125434, "seconds": 20.493113399999856}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.8183015224417005, "seconds": 21.32571739999912}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.1990398335196493, "seconds": 2.940000599999621}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.2136344237496222, "seconds": 1.8585782000009203}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.2282583773662052, "seconds": 3.402665600002365}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.2037564445444877, "seconds": 2.8875740000003134}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.228258392214474, "seconds": 2.5986145999995642}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.2282515241571357, "seconds": 1.8924664999976812}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.2282525107760374, "seconds": 0.9716138000003411}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.195117247102221, "seconds": 0.6916292000023532}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.2282574438012501, "seconds": 0.8970635000005132}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.4614419908734329, "seconds": 18.7498142000004}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.4642750109902876, "seconds": 16.264716699999553}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.4787640857462685, "seconds": 7.056634599997778}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 1.501705955321645, "seconds": 26.96463760000188}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 1.4663487838049623, "seconds": 21.1594886999992}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 1.4788160521643918, "seconds": 8.192922799997177}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 1.4736306447890382, "seconds": 26.615424700001313}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 1.4570236653825206, "seconds": 26.89693339999576}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 1.478805158625317, "seconds": 6.84900529999868}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.204305133348418, "seconds": 53.221542500003125}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.1997631429386884, "seconds": 45.29679020000185}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.2015798016826875, "seconds": 54.5823012999972}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.2034098466796421, "seconds": 55.11208970000007}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.197894344969583, "seconds": 53.88132729999779}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.2006861582703845, "seconds": 53.607265099999495}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.2123378406346712, "seconds": 52.51149599999917}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.2024936225157934, "seconds": 51.824651300004916}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.2057383696217898, "seconds": 51.9878538999983}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 0.32093568069879314, "seconds": 9.983992299996316}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 0.3209339716592383, "seconds": 14.800938599997608}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 0.32093568069879314, "seconds": 8.964980400000059}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 0.32093568069879314, "seconds": 12.817274699998961}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 0.32093471696456616, "seconds": 22.768959200002428}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 0.32093568998942495, "seconds": 15.838716899997962}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 0.32093568069879314, "seconds": 10.667110700000194}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 0.32093568069879314, "seconds": 10.393715300000622}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 0.3209357098287196, "seconds": 11.514284799995949}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.532172550870515, "seconds": 24.215396200001123}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.3747645345722113, "seconds": 36.461869300001126}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.3188918131812577, "seconds": 28.871664400001464}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 3.593872904233826, "seconds": 6.5442542000018875}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 3.3202569877968315, "seconds": 22.136289800000668}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 3.3855092817562285, "seconds": 27.536949800000002}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 3.327463155504802, "seconds": 28.809682099999918}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 3.5756911852011566, "seconds": 12.084858299996995}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 3.2964673774370223, "seconds": 18.120457899996836}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 0.28044015108411147, "seconds": 53.56232330000057}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 0.26760762497124774, "seconds": 54.2608362999963}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 0.2834785770872506, "seconds": 46.93135249999614}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 0.2814651150081066, "seconds": 55.231493500003126}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 0.26639483936026165, "seconds": 48.77960840000014}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 0.2850227816251804, "seconds": 43.2592747000017}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 0.28373602968231676, "seconds": 42.329054599998926}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 0.2674981136220222, "seconds": 50.92486609999469}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 0.2486749837203028, "seconds": 60.84255829999893}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.3981943911593597, "seconds": 2.340247599997383}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.4107352727979805, "seconds": 4.8448425999959}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.4076611270838089, "seconds": 1.7128448999937973}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.4060747338710877, "seconds": 1.6394456999987597}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.4025221187350378, "seconds": 2.1577539999998407}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.4087428007338176, "seconds": 2.4119777000014437}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.4007345046622668, "seconds": 2.665957099998195}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.410840834512101, "seconds": 1.520759500002896}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.4108417299634983, "seconds": 1.6204131000049529}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 2.053640173439425, "seconds": 2.523824900003092}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 2.106778261144497, "seconds": 3.9894086999993306}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 2.080423570603112, "seconds": 3.9215857000017422}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 2.053593268481993, "seconds": 2.345239700000093}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 2.1068124762041727, "seconds": 3.97313209999993}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 2.134585967021763, "seconds": 4.232667899996159}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 2.05488818160212, "seconds": 2.252090499998303}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 2.1068041160267112, "seconds": 4.3149010999986785}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 2.0568280498159734, "seconds": 2.6471125000025495}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.281289891431641, "seconds": 52.355752600000415}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.1936383183151584, "seconds": 47.759102200005145}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.189628685732264, "seconds": 52.66495489999943}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.3325499309620672, "seconds": 55.10874110000441}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.2243871315493218, "seconds": 53.23827639999945}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.1929586018189373, "seconds": 52.044166899999254}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.2655158116613254, "seconds": 51.68317969999771}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.2661557909139236, "seconds": 54.9982983000009}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.1446605602467976, "seconds": 37.167742999998154}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.9089962998676926, "seconds": 1.4742679999981192}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.9041206992836033, "seconds": 1.0897714000020642}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.9086318647372145, "seconds": 1.1949700999975903}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.9109031619394088, "seconds": 1.761383899996872}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.9092233912506336, "seconds": 1.2052983999965363}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.9094025635734126, "seconds": 1.2413089999972726}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.9094035568236207, "seconds": 1.774804500004393}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.9093320715271955, "seconds": 1.1950514999989537}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.909413491700539, "seconds": 1.1495914999977686}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.218383745449622, "seconds": 5.9571995999940555}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.0997334701405905, "seconds": 10.750685899998643}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.430728561412066, "seconds": 12.475093499997456}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 3.218495635031184, "seconds": 5.732072599996172}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 3.1053207324486647, "seconds": 8.81881930000236}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 3.6620220155688283, "seconds": 11.697472699997888}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 3.2184112993499285, "seconds": 5.5436799000017345}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 3.1706885603267057, "seconds": 8.683489300005022}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 3.7945740922277653, "seconds": 12.954952600004617}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8928018842126109, "seconds": 48.94525860000431}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.7919862598155376, "seconds": 57.447460199997295}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.8602498862124606, "seconds": 56.6232960999987}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.8914659073251117, "seconds": 52.594808500005456}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.8007798586129964, "seconds": 56.48999449999974}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.8610345839870959, "seconds": 52.53455789999862}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.8830606750293242, "seconds": 50.270027800004755}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.7972586531520698, "seconds": 61.112902900000336}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.8661020902341823, "seconds": 47.85207519999676}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.827557945914506, "seconds": 0.7492800999971223}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.8604018051129778, "seconds": 0.39593410000088625}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.842538094990223, "seconds": 0.24474429999827407}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.8567394694199018, "seconds": 0.5193040000012843}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.8363764863439673, "seconds": 0.33781350000208477}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.8025532922490584, "seconds": 0.3997847999999067}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.834882164664506, "seconds": 0.5297785000002477}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.8898373423694597, "seconds": 0.2852413999935379}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.8330657428551382, "seconds": 0.36159690000204137}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.5144331029226716, "seconds": 1.002184999997553}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.4891394976530816, "seconds": 0.8642723000011756}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.3990109900057937, "seconds": 0.8926900999940699}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 1.5144409957655889, "seconds": 1.0976712999981828}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 1.4891548943547217, "seconds": 1.1034661999947275}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 1.3990192789053446, "seconds": 1.0142417999959434}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 1.5145651241580969, "seconds": 1.1497489000030328}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 1.4891163071226825, "seconds": 1.1083349000036833}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 1.3989478614073363, "seconds": 1.122973199999251}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8169665074707595, "seconds": 13.151691400002164}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.8198370623008402, "seconds": 11.908903099996678}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.8165143876059169, "seconds": 12.1893756999998}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.817157123870673, "seconds": 11.620622999995248}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.819864015369261, "seconds": 10.529936300001282}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.8167376079537223, "seconds": 9.983026199995948}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.8172570928085168, "seconds": 10.278621799996472}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.820099280082199, "seconds": 7.896192100000917}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.8169266189097804, "seconds": 8.17722589999903}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.1855233894485302, "seconds": 1.2379929000017}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.2841319662947135, "seconds": 0.6688456000047154}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.2282583947650525, "seconds": 0.8575955999986036}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.254807114412157, "seconds": 0.783939000000828}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.224049767257462, "seconds": 0.6932256000000052}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.2282584214412573, "seconds": 1.2547701000003144}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.2120792096554254, "seconds": 0.7285532999958377}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.228258379541061, "seconds": 0.7878320000017993}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.227653832668984, "seconds": 0.9756034000020009}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.4699985753682419, "seconds": 9.085426500001631}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.472599659136838, "seconds": 9.112265499999921}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.4789548947377962, "seconds": 5.035424699999567}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 1.4699940429307916, "seconds": 9.136133300002257}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 1.4708159405102035, "seconds": 12.212451999999757}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 1.4789757051674206, "seconds": 4.533302700001514}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 1.4620588336725415, "seconds": 16.67895729999873}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 1.4770139253926975, "seconds": 12.258710600006452}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 1.4788234833167455, "seconds": 4.532757499997388}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.1980820487059876, "seconds": 23.43309220000083}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.1996759722696657, "seconds": 26.031328199998825}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.1987495391549563, "seconds": 23.828904499998316}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.1983928643537143, "seconds": 31.936504599994805}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.1999052743552077, "seconds": 29.836715799996455}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.198944940852857, "seconds": 28.123622300001443}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.2079087296435596, "seconds": 23.18700600000011}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.2076597519697132, "seconds": 23.19905170000129}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.2033923001225775, "seconds": 26.860176799993496}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 0.32089302935020714, "seconds": 7.001906799996505}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 0.3209229518015485, "seconds": 4.870976199999859}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 0.32092351039771255, "seconds": 6.100243600005342}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 0.3209178350334431, "seconds": 4.643485100001271}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 0.3209179652092932, "seconds": 5.418492299999343}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 0.32088069129574365, "seconds": 3.990110499995353}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 0.32093568069879314, "seconds": 5.152429500005383}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 0.3209356830991743, "seconds": 5.045386099998723}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 0.32093568069879314, "seconds": 4.641189900001336}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.3436361346587233, "seconds": 18.313047900002857}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.3115841534084507, "seconds": 18.546862600000168}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.6122327903588385, "seconds": 7.955471599998418}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 3.2866567775180537, "seconds": 18.482424099995114}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 3.5580883008192488, "seconds": 7.82667329999822}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 3.3988650120906843, "seconds": 14.765585599998303}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 3.4336085794273945, "seconds": 12.163833200000226}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 3.304153311508538, "seconds": 18.533443799999077}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 3.2921505420301096, "seconds": 18.362463900004514}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 0.2823132147030134, "seconds": 44.37808140000561}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 0.27052121298339743, "seconds": 52.11492819999694}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 0.25013959406938785, "seconds": 89.61741289999918}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 0.2778883338552954, "seconds": 45.377535999999964}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 0.2694310264382647, "seconds": 40.58368150000024}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 0.24820868117551328, "seconds": 81.57730970000557}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 0.27701796236574966, "seconds": 48.24813919999724}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 0.26651442961488053, "seconds": 32.46157659999881}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 0.2529233165472124, "seconds": 99.48246130000189}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.4090733021072268, "seconds": 1.5626354999985779}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.4074983391730984, "seconds": 1.640305700006138}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.4108349016051482, "seconds": 1.4423460000034538}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "shuffle", "mse": 1.4009483309524715, "seconds": 2.4453628999981447}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "shuffle", "mse": 1.402855651172791, "seconds": 2.262299100002565}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "shuffle", "mse": 1.4105653084313117, "seconds": 1.7657739999995101}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "time_only", "mse": 1.407704355159963, "seconds": 1.6100988000034704}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "time_only", "mse": 1.4026128128019018, "seconds": 1.6104000999985146}
+{"phase": "encoder_coverage", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "time_only", "mse": 1.4108277216523297, "seconds": 2.661979300006351}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 2.0524712723991967, "seconds": 2.3240109000034863}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 2.105989100639712, "seconds": 3.9130715999999666}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 2.0570135255316986, "seconds": 2.649782899999991}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "shuffle", "mse": 2.0524321928873586, "seconds": 2.3160901999945054}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "shuffle", "mse": 2.145096193958026, "seconds": 5.225930100001278}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "shuffle", "mse": 2.091374626652389, "seconds": 4.01618160000362}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "time_only", "mse": 2.0553156164857826, "seconds": 2.4042227000027196}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "time_only", "mse": 2.106815417488767, "seconds": 4.108412699999462}
+{"phase": "encoder_coverage", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "time_only", "mse": 2.056825398458744, "seconds": 2.6527868999983184}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.278472026285065, "seconds": 53.9123194000058}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.1691630008014429, "seconds": 54.28808469999785}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.1434106137276832, "seconds": 35.778383799995936}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "shuffle", "mse": 1.2994384175818603, "seconds": 46.0984810000009}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "shuffle", "mse": 1.1680521396574401, "seconds": 46.41106640000362}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "shuffle", "mse": 1.1433515762954565, "seconds": 38.39379790000385}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 53, "condition": "time_only", "mse": 1.3338520997685692, "seconds": 51.51791489999596}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 67, "condition": "time_only", "mse": 1.1673731152781168, "seconds": 52.346200499996485}
+{"phase": "encoder_coverage", "family": "selective_ssm", "seed": 79, "condition": "time_only", "mse": 1.1865842490182856, "seconds": 49.387245399993844}

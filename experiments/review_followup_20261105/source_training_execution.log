@@ -1,0 +1,95 @@
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 0.7038880964921568, "seconds": 2.870229600001039}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 0.7037765749223538, "seconds": 3.4655505000009725}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 0.7038854656603792, "seconds": 1.5252868000025046}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.9092267772526907, "seconds": 3.9381381000021065}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.906134174872109, "seconds": 4.092629599999782}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.909400969245886, "seconds": 3.0818808999974863}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.909162800299066, "seconds": 3.1597331000011764}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.9094035568236207, "seconds": 5.393555599999672}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.909403545141191, "seconds": 3.7646058999998786}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.909167224886961, "seconds": 2.4581609000015305}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.9055310238926155, "seconds": 2.5731717999988177}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.9094016780722194, "seconds": 2.6053943000006257}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 0.9582517625794076, "seconds": 13.201127100001031}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 0.9715377956966208, "seconds": 5.355585200002679}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 0.9023369460955594, "seconds": 22.907242999997834}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.226104866027386, "seconds": 9.177335899999889}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.4025816986456947, "seconds": 14.478299499998684}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.5621663124035554, "seconds": 7.262142700001277}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 3.3919693352514426, "seconds": 7.5875569000018}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 3.141073763384897, "seconds": 10.754738499999803}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 3.323465876353393, "seconds": 8.785418699997535}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 0.6949446764911975, "seconds": 110.1052778000012}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 0.6891960737592172, "seconds": 86.81001649999962}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 0.7690993050163855, "seconds": 132.6542616000006}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.887158155753665, "seconds": 101.24277949999669}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.8020532132352598, "seconds": 119.20219999999972}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.8640595399536346, "seconds": 97.09024389999831}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8368258972597893, "seconds": 62.057107300002826}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.904889123961115, "seconds": 104.01824449999549}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.879132719261147, "seconds": 90.13588419999724}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.7937545405064093, "seconds": 0.7633214000015869}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.812421029136189, "seconds": 0.48138160000235075}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.8183833364263466, "seconds": 0.49747539999953005}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.895824473923631, "seconds": 0.47896790000231704}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.911417817682684, "seconds": 0.754948499998136}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.8835468172888905, "seconds": 0.762561800002004}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.8445235268956401, "seconds": 0.620515599999635}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.825425746736493, "seconds": 0.6691176000022097}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.820703648360552, "seconds": 0.661407200001122}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.8353384501964443, "seconds": 0.49830309999379097}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.8520870062871162, "seconds": 0.527362599998014}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.839980799740187, "seconds": 0.6616098999948008}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.5342359204695648, "seconds": 1.1656136000019615}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.448438723532101, "seconds": 1.1235182999953395}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.3769431245699957, "seconds": 1.1047886999949696}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.4692891179479288, "seconds": 1.0445168000005651}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.3749924183444382, "seconds": 1.0378293999965535}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.3827016890118047, "seconds": 2.7541418000037083}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 1.5477751235696697, "seconds": 1.9025315000035334}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 1.4618391582891257, "seconds": 2.11603269999614}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 1.3946450879924683, "seconds": 4.869713299995055}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.7851659109528897, "seconds": 17.205018499997095}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.791692980858017, "seconds": 14.24067389999982}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.7881384786559422, "seconds": 16.080348099996627}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.8169618608777522, "seconds": 14.207770000000892}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.8198430597298667, "seconds": 10.51023300000088}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.8171714950685292, "seconds": 10.02559960000508}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 53, "condition": "aligned", "mse": 1.6884714420535196, "seconds": 36.6432805000004}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 67, "condition": "aligned", "mse": 1.7025858891245111, "seconds": 37.778931799999555}
+{"phase": "source_effects", "family": "selective_ssm", "seed": 79, "condition": "aligned", "mse": 1.6924875058276903, "seconds": 33.772497900004964}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 0.7027369010169217, "seconds": 1.3164956999971764}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 0.6961852615043923, "seconds": 0.9647838000018965}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 0.7027369072910948, "seconds": 1.3635147999957553}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.2265711647675768, "seconds": 1.072852999997849}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.2102858579333993, "seconds": 1.853816499999084}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.228258379541061, "seconds": 1.916438799999014}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.2120899942920214, "seconds": 1.3291776999976719}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.2196040027732535, "seconds": 1.7574507999961497}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.228258379541061, "seconds": 1.4565376000027754}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 53, "condition": "aligned", "mse": 1.2114750761679494, "seconds": 1.4903144999989308}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 67, "condition": "aligned", "mse": 1.1874715718134934, "seconds": 1.96090639999602}
+{"phase": "source_effects", "family": "immtsf_recavg_gradd", "seed": 79, "condition": "aligned", "mse": 1.228258379541061, "seconds": 2.735415600000124}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 53, "condition": "aligned", "mse": 0.7900551608017468, "seconds": 5.267841999993834}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 67, "condition": "aligned", "mse": 0.7763609801259765, "seconds": 21.335597099998267}
+{"phase": "source_effects", "family": "immtsf_t2v_xattn", "seed": 79, "condition": "aligned", "mse": 0.8086836394567918, "seconds": 6.436262999995961}
+Traceback (most recent call last):
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\source_execution.py", line 213, in <module>
+    del packed
+               
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\source_execution.py", line 198, in train
+    if family=='immtsf_recavg_gradd':variants['released_mixed_units']=canonical
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\09_ReviewExperiments_20261105\common.py", line 113, in fit_one
+    result=train_timeimm_model(name=name,model=model,data=data,prepared=packed,output_dir=out,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\03_原始代码_数据_训练结果\phase3_prototype\eventmamba\timeimm_training.py", line 290, in train_timeimm_model
+    loss.backward()
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\03_原始代码_数据_训练结果\phase3_prototype\.venv-cuda\Lib\site-packages\torch\_tensor.py", line 631, in backward
+    torch.autograd.backward(
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\03_原始代码_数据_训练结果\phase3_prototype\.venv-cuda\Lib\site-packages\torch\autograd\__init__.py", line 379, in backward
+    _engine_run_backward(
+  File "F:\CCFA\SemAudit_WSDM2027_Archive_20261105\03_原始代码_数据_训练结果\phase3_prototype\.venv-cuda\Lib\site-packages\torch\autograd\graph.py", line 882, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 978.00 MiB. GPU 0 has a total capacity of 8.00 GiB of which 3.03 GiB is free. Of the allocated memory 2.07 GiB is allocated by PyTorch, and 1.81 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)

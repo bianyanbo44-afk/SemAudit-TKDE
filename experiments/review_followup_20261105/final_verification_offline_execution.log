@@ -1,0 +1,134 @@
+history verified summary cells 30
+encoders verified summary cells 30
+calibration verified summary cells 15
+source verified summary cells 50
+RELOAD encoder minilm ClusterTrace immtsf_recavg_gradd 9
+RELOAD encoder minilm ClusterTrace immtsf_t2v_xattn 18
+RELOAD encoder minilm ClusterTrace selective_ssm 27
+RELOAD encoder minilm CESNET immtsf_recavg_gradd 36
+RELOAD encoder minilm CESNET immtsf_t2v_xattn 45
+RELOAD encoder minilm CESNET selective_ssm 54
+RELOAD encoder minilm EPA-Air immtsf_recavg_gradd 63
+RELOAD encoder minilm EPA-Air immtsf_t2v_xattn 72
+RELOAD encoder minilm EPA-Air selective_ssm 81
+RELOAD encoder minilm FNSPID immtsf_recavg_gradd 90
+RELOAD encoder minilm FNSPID immtsf_t2v_xattn 99
+RELOAD encoder minilm FNSPID selective_ssm 108
+RELOAD encoder minilm RepoHealth immtsf_recavg_gradd 117
+RELOAD encoder minilm RepoHealth immtsf_t2v_xattn 126
+RELOAD encoder minilm RepoHealth selective_ssm 135
+RELOAD encoder finbert ClusterTrace immtsf_recavg_gradd 144
+RELOAD encoder finbert ClusterTrace immtsf_t2v_xattn 153
+RELOAD encoder finbert ClusterTrace selective_ssm 162
+RELOAD encoder finbert CESNET immtsf_recavg_gradd 171
+RELOAD encoder finbert CESNET immtsf_t2v_xattn 180
+RELOAD encoder finbert CESNET selective_ssm 189
+RELOAD encoder finbert EPA-Air immtsf_recavg_gradd 198
+RELOAD encoder finbert EPA-Air immtsf_t2v_xattn 207
+RELOAD encoder finbert EPA-Air selective_ssm 216
+RELOAD encoder finbert FNSPID immtsf_recavg_gradd 225
+RELOAD encoder finbert FNSPID immtsf_t2v_xattn 234
+RELOAD encoder finbert FNSPID selective_ssm 243
+RELOAD encoder finbert RepoHealth immtsf_recavg_gradd 252
+RELOAD encoder finbert RepoHealth immtsf_t2v_xattn 261
+RELOAD encoder finbert RepoHealth selective_ssm 270
+RELOAD calibration 1103 0.0 immtsf_recavg_gradd 9
+RELOAD calibration 1103 0.0 immtsf_t2v_xattn 18
+RELOAD calibration 1103 0.0 selective_ssm 27
+RELOAD calibration 1103 0.05 immtsf_recavg_gradd 36
+RELOAD calibration 1103 0.05 immtsf_t2v_xattn 45
+RELOAD calibration 1103 0.05 selective_ssm 54
+RELOAD calibration 1103 0.1 immtsf_recavg_gradd 63
+RELOAD calibration 1103 0.1 immtsf_t2v_xattn 72
+RELOAD calibration 1103 0.1 selective_ssm 81
+RELOAD calibration 1103 0.25 immtsf_recavg_gradd 90
+RELOAD calibration 1103 0.25 immtsf_t2v_xattn 99
+RELOAD calibration 1103 0.25 selective_ssm 108
+RELOAD calibration 1103 1.0 immtsf_recavg_gradd 117
+RELOAD calibration 1103 1.0 immtsf_t2v_xattn 126
+RELOAD calibration 1103 1.0 selective_ssm 135
+RELOAD calibration 1217 0.0 immtsf_recavg_gradd 144
+RELOAD calibration 1217 0.0 immtsf_t2v_xattn 153
+RELOAD calibration 1217 0.0 selective_ssm 162
+RELOAD calibration 1217 0.05 immtsf_recavg_gradd 171
+RELOAD calibration 1217 0.05 immtsf_t2v_xattn 180
+RELOAD calibration 1217 0.05 selective_ssm 189
+RELOAD calibration 1217 0.1 immtsf_recavg_gradd 198
+RELOAD calibration 1217 0.1 immtsf_t2v_xattn 207
+RELOAD calibration 1217 0.1 selective_ssm 216
+RELOAD calibration 1217 0.25 immtsf_recavg_gradd 225
+RELOAD calibration 1217 0.25 immtsf_t2v_xattn 234
+RELOAD calibration 1217 0.25 selective_ssm 243
+RELOAD calibration 1217 1.0 immtsf_recavg_gradd 252
+RELOAD calibration 1217 1.0 immtsf_t2v_xattn 261
+RELOAD calibration 1217 1.0 selective_ssm 270
+RELOAD calibration 1321 0.0 immtsf_recavg_gradd 279
+RELOAD calibration 1321 0.0 immtsf_t2v_xattn 288
+RELOAD calibration 1321 0.0 selective_ssm 297
+RELOAD calibration 1321 0.05 immtsf_recavg_gradd 306
+RELOAD calibration 1321 0.05 immtsf_t2v_xattn 315
+RELOAD calibration 1321 0.05 selective_ssm 324
+RELOAD calibration 1321 0.1 immtsf_recavg_gradd 333
+RELOAD calibration 1321 0.1 immtsf_t2v_xattn 342
+RELOAD calibration 1321 0.1 selective_ssm 351
+RELOAD calibration 1321 0.25 immtsf_recavg_gradd 360
+RELOAD calibration 1321 0.25 immtsf_t2v_xattn 369
+RELOAD calibration 1321 0.25 selective_ssm 378
+RELOAD calibration 1321 1.0 immtsf_recavg_gradd 387
+RELOAD calibration 1321 1.0 immtsf_t2v_xattn 396
+RELOAD calibration 1321 1.0 selective_ssm 405
+RELOAD calibration 1429 0.0 immtsf_recavg_gradd 414
+RELOAD calibration 1429 0.0 immtsf_t2v_xattn 423
+RELOAD calibration 1429 0.0 selective_ssm 432
+RELOAD calibration 1429 0.05 immtsf_recavg_gradd 441
+RELOAD calibration 1429 0.05 immtsf_t2v_xattn 450
+RELOAD calibration 1429 0.05 selective_ssm 459
+RELOAD calibration 1429 0.1 immtsf_recavg_gradd 468
+RELOAD calibration 1429 0.1 immtsf_t2v_xattn 477
+RELOAD calibration 1429 0.1 selective_ssm 486
+RELOAD calibration 1429 0.25 immtsf_recavg_gradd 495
+RELOAD calibration 1429 0.25 immtsf_t2v_xattn 504
+RELOAD calibration 1429 0.25 selective_ssm 513
+RELOAD calibration 1429 1.0 immtsf_recavg_gradd 522
+RELOAD calibration 1429 1.0 immtsf_t2v_xattn 531
+RELOAD calibration 1429 1.0 selective_ssm 540
+RELOAD calibration 1543 0.0 immtsf_recavg_gradd 549
+RELOAD calibration 1543 0.0 immtsf_t2v_xattn 558
+RELOAD calibration 1543 0.0 selective_ssm 567
+RELOAD calibration 1543 0.05 immtsf_recavg_gradd 576
+RELOAD calibration 1543 0.05 immtsf_t2v_xattn 585
+RELOAD calibration 1543 0.05 selective_ssm 594
+RELOAD calibration 1543 0.1 immtsf_recavg_gradd 603
+RELOAD calibration 1543 0.1 immtsf_t2v_xattn 612
+RELOAD calibration 1543 0.1 selective_ssm 621
+RELOAD calibration 1543 0.25 immtsf_recavg_gradd 630
+RELOAD calibration 1543 0.25 immtsf_t2v_xattn 639
+RELOAD calibration 1543 0.25 selective_ssm 648
+RELOAD calibration 1543 1.0 immtsf_recavg_gradd 657
+RELOAD calibration 1543 1.0 immtsf_t2v_xattn 666
+RELOAD calibration 1543 1.0 selective_ssm 675
+RELOAD source ClusterTrace immtsf_recavg_gradd 12
+RELOAD source ClusterTrace immtsf_t2v_xattn 21
+RELOAD source ClusterTrace selective_ssm 30
+RELOAD source CESNET immtsf_recavg_gradd 42
+RELOAD source CESNET immtsf_t2v_xattn 51
+RELOAD source CESNET selective_ssm 60
+RELOAD source EPA-Air immtsf_recavg_gradd 72
+RELOAD source EPA-Air immtsf_t2v_xattn 81
+RELOAD source EPA-Air selective_ssm 90
+RELOAD source FNSPID immtsf_recavg_gradd 102
+RELOAD source FNSPID immtsf_t2v_xattn 111
+RELOAD source FNSPID selective_ssm 120
+RELOAD source RepoHealth immtsf_recavg_gradd 132
+RELOAD source RepoHealth immtsf_t2v_xattn 141
+RELOAD source RepoHealth selective_ssm 150
+test_four_outputs_and_independent_entities (__main__.DesignTests.test_four_outputs_and_independent_entities) ... ok
+test_historical_controls_preserve_units_multisets_and_empty_histories (__main__.DesignTests.test_historical_controls_preserve_units_multisets_and_empty_histories) ... ok
+test_nonempty_original_width_weights_and_outputs_unchanged (__main__.DesignTests.test_nonempty_original_width_weights_and_outputs_unchanged) ... ok
+test_original_family_forward_backward_with_empty_text_and_new_width (__main__.DesignTests.test_original_family_forward_backward_with_empty_text_and_new_width) ... ok
+test_strength_does_not_change_inputs_or_noise (__main__.DesignTests.test_strength_does_not_change_inputs_or_noise) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 7.516s
+
+OK

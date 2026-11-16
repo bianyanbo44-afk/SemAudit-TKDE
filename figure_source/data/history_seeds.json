@@ -1,0 +1,4802 @@
+[
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8877720616052267,
+    "control": 1.8877677161420572,
+    "gain": -0.00023019056488581487
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.8031469800103643,
+    "control": 1.8031458355225631,
+    "gain": -6.347172694798273e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.8766715067520956,
+    "control": 1.8766707636652078,
+    "gain": -3.959601770257921e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.8753084380181617,
+    "control": 1.8752954821722254,
+    "gain": -0.0006908695754599122
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.863239348169425,
+    "control": 1.863238733644976,
+    "gain": -3.2981519640316516e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.8229752709686502,
+    "control": 1.8229762605430653,
+    "gain": 5.4283450448392536e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.850848853330986,
+    "control": 1.8508495368189104,
+    "gain": 3.692833538779404e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.9070511452287848,
+    "control": 1.9070485630339364,
+    "gain": -0.0001354026792207308
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.865157141289243,
+    "control": 1.8651563368771287,
+    "gain": -4.3128401536536766e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.8591649995366184,
+    "control": 1.859161477293832,
+    "gain": -0.0001894533008209459
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8877720616052267,
+    "control": 1.8877677165059448,
+    "gain": -0.00023017128876295386
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.8031469800103643,
+    "control": 1.8031458361619785,
+    "gain": -6.343626582206969e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.8766715067520956,
+    "control": 1.8766707643395735,
+    "gain": -3.956008353904612e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.8753084380181617,
+    "control": 1.8752954830135264,
+    "gain": -0.0006908247128316622
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.863239348169425,
+    "control": 1.863238734350015,
+    "gain": -3.294368019786223e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.8229752709686502,
+    "control": 1.8229762605206223,
+    "gain": 5.428221933393968e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.850848853330986,
+    "control": 1.850849537041813,
+    "gain": 3.694037864136507e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.9070511452287848,
+    "control": 1.9070485637735863,
+    "gain": -0.00013536389410993488
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.865157141289243,
+    "control": 1.8651563375614133,
+    "gain": -4.3091713731321696e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.8591649995366184,
+    "control": 1.8591614783199866,
+    "gain": -0.00018939810623721772
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.9094037966025477,
+    "control": 1.9094037635048702,
+    "gain": -1.7334038049055666e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.9054792562052507,
+    "control": 1.9054976883320385,
+    "gain": 0.0009673129965271192
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.9094017356820687,
+    "control": 1.909401736924994,
+    "gain": 6.509501348967126e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.9094124977197353,
+    "control": 1.9094123994403192,
+    "gain": -5.147102647370169e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.909296727610881,
+    "control": 1.9092990792869933,
+    "gain": 0.00012316960385101226
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.909037880268425,
+    "control": 1.9090348180994352,
+    "gain": -0.00016040404086279674
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.9094005474401874,
+    "control": 1.9094005213763117,
+    "gain": -1.3650292556513984e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.9092959602451047,
+    "control": 1.9092961678293217,
+    "gain": 1.0872290031509685e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.9065082045626889,
+    "control": 1.906506916270647,
+    "gain": -6.757342608829454e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.9094031820177895,
+    "control": 1.9094031895637797,
+    "gain": 3.952015120915452e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.9094037966025477,
+    "control": 1.9094037635048702,
+    "gain": -1.7334038049055666e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.9054792562052507,
+    "control": 1.9054976883320385,
+    "gain": 0.0009673129965271192
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.9094017356820687,
+    "control": 1.909401736924994,
+    "gain": 6.509501348967126e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.9094124977197353,
+    "control": 1.9094123994403192,
+    "gain": -5.147102647370169e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.909296727610881,
+    "control": 1.9092990792869933,
+    "gain": 0.00012316960385101226
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.909037880268425,
+    "control": 1.9090348180994352,
+    "gain": -0.00016040404086279674
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.9094005474401874,
+    "control": 1.9094005213763117,
+    "gain": -1.3650292556513984e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.9092959602451047,
+    "control": 1.9092961678293217,
+    "gain": 1.0872290031509685e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.9065082045626889,
+    "control": 1.906506916270647,
+    "gain": -6.757342608829454e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.9094031820177895,
+    "control": 1.9094031895637797,
+    "gain": 3.952015120915452e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 3.228319787681048,
+    "control": 3.2283186126613974,
+    "gain": -3.639726406989209e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.3810626002179434,
+    "control": 3.381065066128641,
+    "gain": 7.293295602503758e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.6583474441035175,
+    "control": 3.6583551435962547,
+    "gain": 0.00021046323921377786
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 3.2804543884997255,
+    "control": 3.280454159439456,
+    "gain": -6.982577968959156e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 3.480659294632206,
+    "control": 3.4806591013095627,
+    "gain": -5.55419642085599e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 3.2544213775639763,
+    "control": 3.254425558746708,
+    "gain": 0.00012847682812599988
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 2.992845930017492,
+    "control": 2.9928462669054507,
+    "gain": 1.1256440485702294e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 3.287677585933842,
+    "control": 3.2873902716115833,
+    "gain": -0.008739890871482718
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 3.155554295510836,
+    "control": 3.1555562011177383,
+    "gain": 6.0388938767051296e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 3.483695764510766,
+    "control": 3.4837030214777345,
+    "gain": 0.00020831187170496914
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 3.228319787681048,
+    "control": 3.2283186126613974,
+    "gain": -3.639726406989209e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.3810626002179434,
+    "control": 3.381065066128641,
+    "gain": 7.293295602503758e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.6583474441035175,
+    "control": 3.6583551435962547,
+    "gain": 0.00021046323921377786
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 3.2804543884997255,
+    "control": 3.280454159439456,
+    "gain": -6.982577968959156e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 3.480659294632206,
+    "control": 3.4806591013095627,
+    "gain": -5.55419642085599e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 3.2544213775639763,
+    "control": 3.254425558746708,
+    "gain": 0.00012847682812599988
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 2.992845930017492,
+    "control": 2.9928462669054507,
+    "gain": 1.1256440485702294e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 3.287677585933842,
+    "control": 3.2873902716115833,
+    "gain": -0.008739890871482718
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 3.155554295510836,
+    "control": 3.1555562011177383,
+    "gain": 6.0388938767051296e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 3.483695764510766,
+    "control": 3.4837030214777345,
+    "gain": 0.00020831187170496914
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8170957127464835,
+    "control": 1.8170960073178262,
+    "gain": 1.6211105052531623e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.820480925618965,
+    "control": 1.8204806672782634,
+    "gain": -1.4190796207905269e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.816827776271899,
+    "control": 1.8168280450896532,
+    "gain": 1.4795993214944386e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.8154196214436786,
+    "control": 1.8154198173152651,
+    "gain": 1.0789327330108544e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.8160626045112278,
+    "control": 1.8160627513405356,
+    "gain": 8.08503493146914e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.817593893914968,
+    "control": 1.8175932985467138,
+    "gain": -3.275585658951234e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.8184990938387344,
+    "control": 1.8184994450746057,
+    "gain": 1.9314598760413197e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.8163579032795645,
+    "control": 1.8163582970435996,
+    "gain": 2.1678764360358192e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.8160959644300252,
+    "control": 1.8160961937060596,
+    "gain": 1.2624663559940584e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.8158664989160038,
+    "control": 1.815866116341383,
+    "gain": -2.1068437668890027e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8170957127464835,
+    "control": 1.817095531274834,
+    "gain": -9.986907477446465e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.820480925618965,
+    "control": 1.8204806227062935,
+    "gain": -1.6639159330363144e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.816827776271899,
+    "control": 1.8168274791500068,
+    "gain": -1.6353885859322096e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.8154196214436786,
+    "control": 1.8154195306971883,
+    "gain": -4.998651209139336e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.8160626045112278,
+    "control": 1.8160623946702856,
+    "gain": -1.1554720960791467e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.817593893914968,
+    "control": 1.8175933840667646,
+    "gain": -2.8050729492261225e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.8184990938387344,
+    "control": 1.818498987095302,
+    "gain": -5.869864821092245e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.8163579032795645,
+    "control": 1.8163577435932825,
+    "gain": -8.791565567879977e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.8160959644300252,
+    "control": 1.8160955087680026,
+    "gain": -2.509020149867071e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.8158664989160038,
+    "control": 1.8158658602142097,
+    "gain": -3.517340174261121e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8346195631514295,
+    "control": 1.8346232001959861,
+    "gain": 0.00019824477071086883
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.852237569039866,
+    "control": 1.8522406021251867,
+    "gain": 0.00016375223160536182
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.8399385664033279,
+    "control": 1.8399381129283576,
+    "gain": -2.4646207774860716e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.9265684137646073,
+    "control": 1.9265670406751023,
+    "gain": -7.127130673348173e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.9025673057291617,
+    "control": 1.902577794317482,
+    "gain": 0.0005512830198922132
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.85478389482367,
+    "control": 1.854787956468518,
+    "gain": 0.00021898162719048863
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.841020424432615,
+    "control": 1.8410203402387786,
+    "gain": -4.573215977410033e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.8357481188407,
+    "control": 1.8357490568566828,
+    "gain": 5.109717905952054e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.8350456688380006,
+    "control": 1.8350455442214582,
+    "gain": -6.790923680934333e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.8222843765673307,
+    "control": 1.822280263712986,
+    "gain": -0.00022569823240421846
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8346195631514295,
+    "control": 1.8346207702570798,
+    "gain": 6.579592196352074e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.852237569039866,
+    "control": 1.8522405955022418,
+    "gain": 0.00016339466822887257
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.8399385664033279,
+    "control": 1.8399380432313968,
+    "gain": -2.843421456690404e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.9265684137646073,
+    "control": 1.9265683143098404,
+    "gain": -5.162275644613515e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.9025673057291617,
+    "control": 1.902577286523464,
+    "gain": 0.000524593369902167
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.85478389482367,
+    "control": 1.8547874137113514,
+    "gain": 0.00018971919129119366
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.841020424432615,
+    "control": 1.841020066905547,
+    "gain": -1.9420052740227255e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.8357481188407,
+    "control": 1.8357493533229632,
+    "gain": 6.724677641012608e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.8350456688380006,
+    "control": 1.83504578894693,
+    "gain": 6.545282422507004e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.8222843765673307,
+    "control": 1.8222804741027878,
+    "gain": -0.00021415279361812345
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.5477751361192633,
+    "control": 1.5477745512683714,
+    "gain": -3.778656855799096e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4618391874821874,
+    "control": 1.4618435674227352,
+    "gain": 0.00029961759557673085
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.3851197419694619,
+    "control": 1.3851184135101313,
+    "gain": -9.590944121334454e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.394987693820759,
+    "control": 1.394987676632995,
+    "gain": -1.2321086694007874e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.4163099307409297,
+    "control": 1.4163107055038275,
+    "gain": 5.470289074469501e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.4893365275801962,
+    "control": 1.4893350545813013,
+    "gain": -9.890312393621768e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.4270130404415513,
+    "control": 1.4270087515527785,
+    "gain": -0.0003005509789711975
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.4395923451533499,
+    "control": 1.4395941870332745,
+    "gain": 0.00012794438468634195
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.4756742194057781,
+    "control": 1.4756745135465095,
+    "gain": 1.9932629358784697e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.414937682246365,
+    "control": 1.414937721124281,
+    "gain": 2.7476768353286758e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.5477751361192633,
+    "control": 1.5477745016283901,
+    "gain": -4.0993754097076774e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4618391874821874,
+    "control": 1.4618435880754654,
+    "gain": 0.0003010303779347032
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.3851197419694619,
+    "control": 1.3851179331344272,
+    "gain": -0.00013059068772225795
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.394987693820759,
+    "control": 1.3949876248003361,
+    "gain": -4.947744460631464e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.4163099307409297,
+    "control": 1.4163104201114063,
+    "gain": 3.455248719752876e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.4893365275801962,
+    "control": 1.4893351353978421,
+    "gain": -9.347676832275573e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.4270130404415513,
+    "control": 1.4270087899364259,
+    "gain": -0.0002978611733438776
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.4395923451533499,
+    "control": 1.4395941520351152,
+    "gain": 0.0001255132748883546
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.4756742194057781,
+    "control": 1.4756741868233394,
+    "gain": -2.2079696885653073e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.414937682246365,
+    "control": 1.414937663866559,
+    "gain": -1.2989834528321003e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.2016094286738197,
+    "control": 1.2016070536206307,
+    "gain": -0.0001976563953957536
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.202857172011116,
+    "control": 1.2028603025546445,
+    "gain": 0.00026025827951576175
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.2004936507864212,
+    "control": 1.2004954338968414,
+    "gain": 0.00014853121218611653
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.2102893164766626,
+    "control": 1.2102860736649126,
+    "gain": -0.00026793762405240865
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.2101991754090293,
+    "control": 1.2102039913989675,
+    "gain": 0.0003979486080368287
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.1950225366692893,
+    "control": 1.1950283465408258,
+    "gain": 0.00048617018611737283
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.194272314648487,
+    "control": 1.194277343606301,
+    "gain": 0.0004210879358032191
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.2067055767446107,
+    "control": 1.206709902062639,
+    "gain": 0.0003584389272861132
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.2026688235691976,
+    "control": 1.2026675964960913,
+    "gain": -0.00010202928139170239
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.2038947963016065,
+    "control": 1.2038855431661035,
+    "gain": -0.0007686059156914698
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.2016094286738197,
+    "control": 1.2016113993089823,
+    "gain": 0.00016399937315343766
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.202857172011116,
+    "control": 1.2028546182171798,
+    "gain": -0.00021231110540249242
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.2004936507864212,
+    "control": 1.2004941348297107,
+    "gain": 4.032033771818959e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.2102893164766626,
+    "control": 1.210283380874054,
+    "gain": -0.0004904308116868024
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.2101991754090293,
+    "control": 1.2102013768954871,
+    "gain": 0.00018191075467500985
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.1950225366692893,
+    "control": 1.1950208236287878,
+    "gain": -0.00014334817164507845
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.194272314648487,
+    "control": 1.194271381237577,
+    "gain": -7.815735391337482e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.2067055767446107,
+    "control": 1.2067063997579741,
+    "gain": 6.820328156254114e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.2026688235691976,
+    "control": 1.2026657814629707,
+    "gain": -0.0002529469345360655
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.2038947963016065,
+    "control": 1.2038776942907898,
+    "gain": -0.0014205770982982885
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.226543920542407,
+    "control": 1.2265472882140027,
+    "gain": 0.00027456516582532976
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.2081867233354895,
+    "control": 1.2081778911600647,
+    "gain": -0.0007310326972064949
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.2282583395547426,
+    "control": 1.2282583395547426,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.2282583305484973,
+    "control": 1.2282583305484973,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.2282620623327671,
+    "control": 1.2282620704020384,
+    "gain": 6.569665746127255e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.190772471924947,
+    "control": 1.1907745174963584,
+    "gain": 0.00017178495015745046
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.2282583305484973,
+    "control": 1.2282583305484973,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.2271575519934435,
+    "control": 1.2271645739856716,
+    "gain": 0.0005722127558916092
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.2028281769403124,
+    "control": 1.202826665713674,
+    "gain": -0.0001256396022446582
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.2282315670586406,
+    "control": 1.2282315986037953,
+    "gain": 2.5683392893049367e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.226543920542407,
+    "control": 1.2265439216889629,
+    "gain": 9.347858980097637e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.2081867233354895,
+    "control": 1.208177851122614,
+    "gain": -0.000734346592038932
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.2282583395547426,
+    "control": 1.2282583395547426,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.2282583305484973,
+    "control": 1.2282583305484973,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.2282620623327671,
+    "control": 1.2282620549764964,
+    "gain": -5.989170367911729e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.190772471924947,
+    "control": 1.1907730900856712,
+    "gain": 5.191255406347074e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.2282583305484973,
+    "control": 1.2282583305484973,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.2271575519934435,
+    "control": 1.2271622235421553,
+    "gain": 0.0003806789862208379
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.2028281769403124,
+    "control": 1.202818664387013,
+    "gain": -0.0007908551455970681
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.2282315670586406,
+    "control": 1.2282315707711964,
+    "gain": 3.0226839194450733e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.4737307675346294,
+    "control": 1.4737323172735044,
+    "gain": 0.00010515741948805362
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4998465808778623,
+    "control": 1.4998458762535716,
+    "gain": -4.6979779845966475e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.473859232967069,
+    "control": 1.473868694753879,
+    "gain": 0.0006419694538413386
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.4859610286834464,
+    "control": 1.4859658678098517,
+    "gain": 0.0003256552865845575
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.478538526475682,
+    "control": 1.4785400774103052,
+    "gain": 0.0001048963532926315
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.4759795102979507,
+    "control": 1.4759853128652276,
+    "gain": 0.00039313177619817937
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.5250843928748246,
+    "control": 1.525086458295864,
+    "gain": 0.0001354297671648084
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.4818860679471426,
+    "control": 1.4818873808476511,
+    "gain": 8.859651047039602e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.471705753327062,
+    "control": 1.4717057797163595,
+    "gain": 1.7931095860089877e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.472171970531428,
+    "control": 1.4721722187049455,
+    "gain": 1.6857641678123534e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.4737307675346294,
+    "control": 1.4737301581436288,
+    "gain": -4.135024293169335e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4998465808778623,
+    "control": 1.4998452727849856,
+    "gain": -8.721518815437913e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.473859232967069,
+    "control": 1.4738523199658147,
+    "gain": -0.0004690430079512715
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.4859610286834464,
+    "control": 1.4859652913652397,
+    "gain": 0.0002868628101942244
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.478538526475682,
+    "control": 1.4785344370363034,
+    "gain": -0.00027658736085188593
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.4759795102979507,
+    "control": 1.4759902338547606,
+    "gain": 0.0007265330463508653
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.5250843928748246,
+    "control": 1.5250823380170664,
+    "gain": -0.00013473749626155497
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.4818860679471426,
+    "control": 1.4818847805459836,
+    "gain": -8.687592827136349e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.471705753327062,
+    "control": 1.4717054056791639,
+    "gain": -2.3622111932535362e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.472171970531428,
+    "control": 1.4721721819177633,
+    "gain": 1.4358805167031186e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.28377442471591074,
+    "control": 0.28377798423186945,
+    "gain": 0.0012543312577053564
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.26840101010874373,
+    "control": 0.2684000585669995,
+    "gain": -0.0003545236723539365
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.25251447920649067,
+    "control": 0.252549830217537,
+    "gain": 0.013997638016979563
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 0.26976740930022336,
+    "control": 0.26979989335456095,
+    "gain": 0.012040054550688774
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 0.25866314797440526,
+    "control": 0.25863682446081376,
+    "gain": -0.010177790284262371
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 0.2797202081413304,
+    "control": 0.2797098239320523,
+    "gain": -0.003712493587871741
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 0.24583680681220077,
+    "control": 0.2457804738988035,
+    "gain": -0.022920011709498537
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 0.2707170253410483,
+    "control": 0.27073547364546613,
+    "gain": 0.006814143772672719
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 0.27069498871042263,
+    "control": 0.2706715691945178,
+    "gain": -0.008652373788106633
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 0.28574643257250937,
+    "control": 0.28575522163450023,
+    "gain": 0.003075731019224461
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.28377442471591074,
+    "control": 0.28378338320337665,
+    "gain": 0.0031568048011761584
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.26840101010874373,
+    "control": 0.26839330236613107,
+    "gain": -0.002871808850932841
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.25251447920649067,
+    "control": 0.25251332787996716,
+    "gain": -0.0004559468338458371
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 0.26976740930022336,
+    "control": 0.2697709580324807,
+    "gain": 0.001315461190934771
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 0.25866314797440526,
+    "control": 0.2586663224536349,
+    "gain": 0.0012272487579899987
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 0.2797202081413304,
+    "control": 0.2797241424518391,
+    "gain": 0.0014064965841605677
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 0.24583680681220077,
+    "control": 0.2458635084139833,
+    "gain": 0.010860335457985324
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 0.2707170253410483,
+    "control": 0.270730753202147,
+    "gain": 0.005070669266915925
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 0.27069498871042263,
+    "control": 0.27072030524918245,
+    "gain": 0.00935154780374142
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 0.28574643257250937,
+    "control": 0.28575099619251515,
+    "gain": 0.0015970618008650213
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.3209356809612807,
+    "control": 0.3209356810526513,
+    "gain": 2.847005900710158e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.3209356858098455,
+    "control": 0.32093568583031434,
+    "gain": 6.377866264747183e-09
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.32092676090640054,
+    "control": 0.32092677908154793,
+    "gain": 5.663331504814483e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 0.32093568448261184,
+    "control": 0.32093568448261184,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 0.3209207553440596,
+    "control": 0.32092080119442795,
+    "gain": 1.4287128838245039e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 0.32093567980708654,
+    "control": 0.3209356796862202,
+    "gain": -3.766060447786014e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 0.3209356845136911,
+    "control": 0.3209356844784092,
+    "gain": -1.0993445175536061e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 0.32093288237867296,
+    "control": 0.32093289794001567,
+    "gain": 4.848783909126757e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 0.32093568448261184,
+    "control": 0.32093568448261184,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 0.32093568448445703,
+    "control": 0.32093568448623294,
+    "gain": 5.53354717482836e-10
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.3209356809612807,
+    "control": 0.3209356809394664,
+    "gain": -6.7971027895039136e-09
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.3209356858098455,
+    "control": 0.32093568584778626,
+    "gain": 1.1821920502020673e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.32092676090640054,
+    "control": 0.3209267769714233,
+    "gain": 5.005821860093318e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 0.32093568448261184,
+    "control": 0.32093568448261184,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 0.3209207553440596,
+    "control": 0.32092080895248964,
+    "gain": 1.6704566526372077e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 0.32093567980708654,
+    "control": 0.32093567981374843,
+    "gain": 2.075772087145128e-09
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 0.3209356845136911,
+    "control": 0.3209356845137709,
+    "gain": 2.4872595763692202e-11
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 0.32093288237867296,
+    "control": 0.32093289566314115,
+    "gain": 4.139328928779462e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 0.32093568448261184,
+    "control": 0.32093568448261184,
+    "gain": 0.0
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 0.32093568448445703,
+    "control": 0.32093568448623294,
+    "gain": 5.53354717482836e-10
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 4.329890652037798,
+    "control": 4.329890901103445,
+    "gain": 5.752238402915251e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.381886265592996,
+    "control": 3.3818862559350844,
+    "gain": -2.8557766502878604e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.6368938553774917,
+    "control": 3.6368939956433173,
+    "gain": 3.85674770254855e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 3.307905904943949,
+    "control": 3.307905917041548,
+    "gain": 3.6571774488199454e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 3.2669858652057275,
+    "control": 3.266985866287692,
+    "gain": 3.311811988841611e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 3.281504449899105,
+    "control": 3.2815044624963288,
+    "gain": 3.838856187026857e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 3.7718957252936787,
+    "control": 3.771896041658973,
+    "gain": 8.387434089166862e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 3.2721405450246603,
+    "control": 3.2721405638820227,
+    "gain": 5.763004971869895e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 4.563299361990103,
+    "control": 4.563299306366029,
+    "gain": -1.2189442440898004e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 3.3355912536761707,
+    "control": 3.3355912421951555,
+    "gain": -3.441973076430999e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 4.329890652037798,
+    "control": 4.329891227659686,
+    "gain": 1.3294141992657461e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.381886265592996,
+    "control": 3.3818862690001796,
+    "gain": 1.0074801910159697e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.6368938553774917,
+    "control": 3.6368975446501683,
+    "gain": 0.00010144010468798672
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 3.307905904943949,
+    "control": 3.3079059269736786,
+    "gain": 6.659720706217057e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 3.2669858652057275,
+    "control": 3.266985868030842,
+    "gain": 8.64746429518932e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 3.281504449899105,
+    "control": 3.281504466056757,
+    "gain": 4.92385497941444e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 3.7718957252936787,
+    "control": 3.7718938120524235,
+    "gain": -5.07236245381328e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 3.2721405450246603,
+    "control": 3.272140558102418,
+    "gain": 3.9966979753277937e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 4.563299361990103,
+    "control": 4.563299066567123,
+    "gain": -6.473890402348357e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 3.3355912536761707,
+    "control": 3.3355912482262515,
+    "gain": -1.6338690136292005e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.323624161225409,
+    "control": 1.3236276510842757,
+    "gain": 0.00026365865535672923
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.1935486472929253,
+    "control": 1.193546005681439,
+    "gain": -0.00022132464719801465
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.1588950081856628,
+    "control": 1.1588970057217765,
+    "gain": 0.0001723652838662054
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.22860872227551,
+    "control": 1.2286156123352785,
+    "gain": 0.0005607986500683388
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.2142352059733983,
+    "control": 1.2142411468318524,
+    "gain": 0.0004892651241121508
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.1865345258262268,
+    "control": 1.1865359076421027,
+    "gain": 0.00011645799061326686
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.1498934947023216,
+    "control": 1.1498974858425595,
+    "gain": 0.0003470866131108581
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.23332414932499,
+    "control": 1.2333220725574474,
+    "gain": -0.00016838809495204414
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.4200232814478628,
+    "control": 1.4200838168724563,
+    "gain": 0.004262806453693757
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.2083483568359834,
+    "control": 1.2083526203179555,
+    "gain": 0.0003528342555347267
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.323624161225409,
+    "control": 1.323618871319471,
+    "gain": -0.0003996547686481584
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.1935486472929253,
+    "control": 1.1935464194103687,
+    "gain": -0.00018666073815216898
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.1588950081856628,
+    "control": 1.1588924161699363,
+    "gain": -0.00022366318825914696
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.22860872227551,
+    "control": 1.2286052002801893,
+    "gain": -0.0002866661576817234
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.2142352059733983,
+    "control": 1.214229080156936,
+    "gain": -0.0005045025327114052
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.1865345258262268,
+    "control": 1.1865312934269974,
+    "gain": -0.00027242427126009246
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.1498934947023216,
+    "control": 1.14989113536179,
+    "gain": -0.0002051794695215147
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.23332414932499,
+    "control": 1.2333228589939984,
+    "gain": -0.00010462232027894429
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.4200232814478628,
+    "control": 1.4200871120781628,
+    "gain": 0.004494839067063376
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.2083483568359834,
+    "control": 1.2083487520545553,
+    "gain": 3.2707326522843964e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.408640387637438,
+    "control": 1.4086403874921536,
+    "gain": -1.0313807017482808e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4112343670547527,
+    "control": 1.4112343680309825,
+    "gain": 6.917559448725842e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.408697469304182,
+    "control": 1.4086973893196173,
+    "gain": -5.67790963166733e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 1.4049702247864397,
+    "control": 1.4049701688194751,
+    "gain": -3.983498430099674e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 1.410432480320711,
+    "control": 1.4104323635392793,
+    "gain": -8.27983210361283e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 1.4112776159146108,
+    "control": 1.4112776161967142,
+    "gain": 1.9989224548888265e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 1.4103450357554934,
+    "control": 1.410345034486458,
+    "gain": -8.998048635197694e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 1.403357530676717,
+    "control": 1.4033575309015867,
+    "gain": 1.602369128906338e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 1.4117570342052772,
+    "control": 1.411757039339689,
+    "gain": 3.636894764148391e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 1.400490736887407,
+    "control": 1.4004907369131796,
+    "gain": 1.8402474625322116e-09
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.408640387637438,
+    "control": 1.4086403863684975,
+    "gain": -9.008264426500808e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4112343670547527,
+    "control": 1.4112343667087917,
+    "gain": -2.4514782643961266e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.408697469304182,
+    "control": 1.4086970349804582,
+    "gain": -3.083159210885016e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 1.4049702247864397,
+    "control": 1.4049697653758912,
+    "gain": -3.269896333814614e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 1.410432480320711,
+    "control": 1.4104315991663694,
+    "gain": -6.247409247020318e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 1.4112776159146108,
+    "control": 1.4112776158277742,
+    "gain": -6.153044375279285e-09
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 1.4103450357554934,
+    "control": 1.4103450478298747,
+    "gain": 8.561295897891597e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 1.403357530676717,
+    "control": 1.4033575313049744,
+    "gain": 4.4768167202749033e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 1.4117570342052772,
+    "control": 1.411757056080274,
+    "gain": 1.549487329190715e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 1.400490736887407,
+    "control": 1.400490736257518,
+    "gain": -4.497630819802503e-08
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 2.033458511025439,
+    "control": 2.0334583084952422,
+    "gain": -9.959889306184475e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 2.1128350526171853,
+    "control": 2.112835270114294,
+    "gain": 1.0294087373685855e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 2.0805178327208678,
+    "control": 2.0805184942739876,
+    "gain": 3.179751209428555e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 83,
+    "aligned": 2.047102696034014,
+    "control": 2.047102691873513,
+    "gain": -2.032385230767761e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 97,
+    "aligned": 2.0733631314738696,
+    "control": 2.073363110880749,
+    "gain": -9.932230603542094e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 101,
+    "aligned": 2.050756803004091,
+    "control": 2.050756528374545,
+    "gain": -1.3391621209804985e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 113,
+    "aligned": 2.1034620980086682,
+    "control": 2.103462095165259,
+    "gain": -1.351775755927786e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 127,
+    "aligned": 2.080524537701236,
+    "control": 2.080524552269574,
+    "gain": 7.002242812056319e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 139,
+    "aligned": 2.0952331489678566,
+    "control": 2.0952308326552354,
+    "gain": -0.00011055166739451848
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 151,
+    "aligned": 2.0485833689900845,
+    "control": 2.048583352947813,
+    "gain": -7.830909827570475e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 2.033458511025439,
+    "control": 2.0334588361184274,
+    "gain": 1.5987192991305504e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 2.1128350526171853,
+    "control": 2.112836482169554,
+    "gain": 6.766034101501717e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 2.0805178327208678,
+    "control": 2.08051914182544,
+    "gain": 6.292201527891511e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 83,
+    "aligned": 2.047102696034014,
+    "control": 2.0471027819257728,
+    "gain": 4.1957716707127465e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 97,
+    "aligned": 2.0733631314738696,
+    "control": 2.0733628637478665,
+    "gain": -1.2912645819303508e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 101,
+    "aligned": 2.050756803004091,
+    "control": 2.050757165771036,
+    "gain": 1.768941496257514e-05
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 113,
+    "aligned": 2.1034620980086682,
+    "control": 2.1034620312042183,
+    "gain": -3.1759284922116638e-06
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 127,
+    "aligned": 2.080524537701236,
+    "control": 2.0805245198534372,
+    "gain": -8.578509228861219e-07
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 139,
+    "aligned": 2.0952331489678566,
+    "control": 2.0952182236282906,
+    "gain": -0.0007123525080931522
+  },
+  {
+    "encoder": "gpt2",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 151,
+    "aligned": 2.0485833689900845,
+    "control": 2.048583375141929,
+    "gain": 3.002974856625677e-07
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8958335360275143,
+    "control": 1.8936613191662142,
+    "gain": -0.11470989238226222
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.8842356651905965,
+    "control": 1.8836069781048865,
+    "gain": -0.03337676558952247
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.8924983779825666,
+    "control": 1.8903931674633803,
+    "gain": -0.11136363352451178
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8958335360275143,
+    "control": 1.8936613194754124,
+    "gain": -0.11470987603546882
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.8842356651905965,
+    "control": 1.8836069783055422,
+    "gain": -0.03337675493322904
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.8924983779825666,
+    "control": 1.8903931661839999,
+    "gain": -0.11136370127788535
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.9113473683824298,
+    "control": 1.9113473780711374,
+    "gain": 5.06904591239328e-07
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.9093687340614445,
+    "control": 1.909365931170842,
+    "gain": -0.00014679693173250683
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.909643994731416,
+    "control": 1.9095466418889373,
+    "gain": -0.005098217573910727
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.9113473683824298,
+    "control": 1.9113473780711374,
+    "gain": 5.06904591239328e-07
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.9093687340614445,
+    "control": 1.909365931170842,
+    "gain": -0.00014679693173250683
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.909643994731416,
+    "control": 1.9095466418889373,
+    "gain": -0.005098217573910727
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 3.2180104119487036,
+    "control": 3.2179839666393106,
+    "gain": -0.0008217974255668941
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.189253047363634,
+    "control": 3.1894050821680535,
+    "gain": 0.00476687032543299
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.446746509292711,
+    "control": 3.4278767946953024,
+    "gain": -0.550478203493487
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 3.2180104119487036,
+    "control": 3.2179839666393106,
+    "gain": -0.0008217974255668941
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.189253047363634,
+    "control": 3.1894050821680535,
+    "gain": 0.00476687032543299
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.446746509292711,
+    "control": 3.4278767946953024,
+    "gain": -0.550478203493487
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8171180910749203,
+    "control": 1.8171833418242702,
+    "gain": 0.003590763124893436
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.816697097018033,
+    "control": 1.8167765074326598,
+    "gain": 0.0043709512040700895
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.81789037322114,
+    "control": 1.817945049861838,
+    "gain": 0.0030076068967029705
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8171180910749203,
+    "control": 1.8171424004127714,
+    "gain": 0.0013377783626431327
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.816697097018033,
+    "control": 1.816718781837108,
+    "gain": 0.0011936255237656338
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.81789037322114,
+    "control": 1.8179084731810353,
+    "gain": 0.0009956474796364
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8391647462634886,
+    "control": 1.8392736185766414,
+    "gain": 0.005919310321923287
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.8639640799264918,
+    "control": 1.8651460276189176,
+    "gain": 0.06337024956349623
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.845000471024497,
+    "control": 1.8449187315631406,
+    "gain": -0.004430518263918969
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8391647462634886,
+    "control": 1.8392717144153927,
+    "gain": 0.0058157884485349415
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.8639640799264918,
+    "control": 1.8653244192656016,
+    "gain": 0.07292776125481211
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.845000471024497,
+    "control": 1.8449288105671022,
+    "gain": -0.0038841855026741823
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.514273364795318,
+    "control": 1.5142734786394758,
+    "gain": 7.5180711730355885e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4888497327183519,
+    "control": 1.4888500899667925,
+    "gain": 2.3994923532951046e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.3991095232383401,
+    "control": 1.3991098415513323,
+    "gain": 2.2751108078400063e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.514273364795318,
+    "control": 1.5142735164093737,
+    "gain": 1.0012329616249519e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4888497327183519,
+    "control": 1.4888500687106985,
+    "gain": 2.2567238546907965e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.3991095232383401,
+    "control": 1.3991098263041561,
+    "gain": 2.1661331390914626e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.204305133348418,
+    "control": 1.2041382518821557,
+    "gain": -0.013858995509981206
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.1997631429386884,
+    "control": 1.1994084153047642,
+    "gain": -0.0295752163648156
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.2015798016826875,
+    "control": 1.201486841637495,
+    "gain": -0.007737083917268857
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.204305133348418,
+    "control": 1.2043119696499642,
+    "gain": 0.0005676520468507806
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.1997631429386884,
+    "control": 1.199652609951621,
+    "gain": -0.009213749559706443
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.2015798016826875,
+    "control": 1.2016218031892247,
+    "gain": 0.003495401500350492
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.1990398335196493,
+    "control": 1.199124654623268,
+    "gain": 0.0070735851599410945
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.2136344237496222,
+    "control": 1.2141309331745471,
+    "gain": 0.040894224120190725
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.2282583773662052,
+    "control": 1.228258334442506,
+    "gain": -3.494680073235874e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.1990398335196493,
+    "control": 1.198980308701512,
+    "gain": -0.004964620161415921
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.2136344237496222,
+    "control": 1.213812328026789,
+    "gain": 0.014656654332717376
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.2282583773662052,
+    "control": 1.228258333437139,
+    "gain": -3.576533125530041e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.4614419908734329,
+    "control": 1.4614855085515654,
+    "gain": 0.0029776332285174427
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4642750109902876,
+    "control": 1.4638243604502852,
+    "gain": -0.030785834160031944
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.4787640857462685,
+    "control": 1.4787641694336002,
+    "gain": 5.659275052843324e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.4614419908734329,
+    "control": 1.4615963003075079,
+    "gain": 0.010557596105200311
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4642750109902876,
+    "control": 1.4638657006984923,
+    "gain": -0.027960918245433706
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.4787640857462685,
+    "control": 1.4787640510773215,
+    "gain": -2.34445427729021e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.28044015108411147,
+    "control": 0.2806661002740708,
+    "gain": 0.08050462444117386
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.26760762497124774,
+    "control": 0.26846221145797583,
+    "gain": 0.3183265466253029
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.2834785770872506,
+    "control": 0.2838874223605727,
+    "gain": 0.14401669151893365
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.28044015108411147,
+    "control": 0.2797442938247969,
+    "gain": -0.24874761511682714
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.26760762497124774,
+    "control": 0.26730283998541066,
+    "gain": -0.11402235227044956
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.2834785770872506,
+    "control": 0.2820846128816338,
+    "gain": -0.49416527593504417
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.32093568069879314,
+    "control": 0.32093568448261184,
+    "gain": 1.1789959439715098e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.3209339716592383,
+    "control": 0.32093397765049536,
+    "gain": 1.866819178790322e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.32093568069879314,
+    "control": 0.32093568448261184,
+    "gain": 1.1789959439715098e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.32093568069879314,
+    "control": 0.32093568448261184,
+    "gain": 1.1789959439715098e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.3209339716592383,
+    "control": 0.32093408847541793,
+    "gain": 3.6398807048908225e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.32093568069879314,
+    "control": 0.32093568448261184,
+    "gain": 1.1789959439715098e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 3.532172550870515,
+    "control": 3.532172631667642,
+    "gain": 2.2874625674439193e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.3747645345722113,
+    "control": 3.3747644865696516,
+    "gain": -1.422397322716101e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.3188918131812577,
+    "control": 3.31889177640994,
+    "gain": -1.1079396383994267e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 3.532172550870515,
+    "control": 3.5321723466995256,
+    "gain": -5.780323534870806e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.3747645345722113,
+    "control": 3.3747642523575334,
+    "gain": -8.362500511021467e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.3188918131812577,
+    "control": 3.318891749100466,
+    "gain": -1.930788848457071e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.281289891431641,
+    "control": 1.2729103673424567,
+    "gain": -0.658296475868833
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.1936383183151584,
+    "control": 1.1850841463932447,
+    "gain": -0.7218197921175505
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.189628685732264,
+    "control": 1.2022916358619167,
+    "gain": 1.0532344858720306
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.281289891431641,
+    "control": 1.24949855730788,
+    "gain": -2.544327397404712
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.1936383183151584,
+    "control": 1.1879494751559263,
+    "gain": -0.47887921819953055
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.189628685732264,
+    "control": 1.1893855691356778,
+    "gain": -0.020440520121900334
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.3981943911593597,
+    "control": 1.398194399001735,
+    "gain": 5.608930488699408e-07
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4107352727979805,
+    "control": 1.410735247776517,
+    "gain": -1.773647011881956e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.4076611270838089,
+    "control": 1.407648184000974,
+    "gain": -0.0009194827927848643
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.3981943911593597,
+    "control": 1.3981944053129305,
+    "gain": 1.0122748815231676e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4107352727979805,
+    "control": 1.4107354833351082,
+    "gain": 1.4923926577216312e-05
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.4076611270838089,
+    "control": 1.4076471227049674,
+    "gain": -0.0009948785185991047
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 2.053640173439425,
+    "control": 2.053640266539987,
+    "gain": 4.5334406148609495e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 2.106778261144497,
+    "control": 2.1067782776290187,
+    "gain": 7.824516667306899e-07
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 2.080423570603112,
+    "control": 2.0804437574878927,
+    "gain": 0.0009703162946854258
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 2.053640173439425,
+    "control": 2.0536403350560786,
+    "gain": 7.869764273456568e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 2.106778261144497,
+    "control": 2.1067782257783376,
+    "gain": -1.6786844909292642e-06
+  },
+  {
+    "encoder": "minilm",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 2.080423570603112,
+    "control": 2.0806400980934208,
+    "gain": 0.010406772920851296
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8928018842126109,
+    "control": 1.8927987167217444,
+    "gain": -0.00016734430547219974
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.7919862598155376,
+    "control": 1.7897829593349202,
+    "gain": -0.12310433894376757
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.8602498862124606,
+    "control": 1.8592227350971178,
+    "gain": -0.05524626479404259
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8928018842126109,
+    "control": 1.892798718707873,
+    "gain": -0.0001672393745094426
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.7919862598155376,
+    "control": 1.7897829589494014,
+    "gain": -0.12310436051025508
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.8602498862124606,
+    "control": 1.8592227355031063,
+    "gain": -0.05524624294551085
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.9089962998676926,
+    "control": 1.908986395866753,
+    "gain": -0.0005188094038297203
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.9041206992836033,
+    "control": 1.9042410936068885,
+    "gain": 0.006322430688501346
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.9086318647372145,
+    "control": 1.9086257752207607,
+    "gain": -0.00031905240581020695
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.9089962998676926,
+    "control": 1.908986395866753,
+    "gain": -0.0005188094038297203
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.9041206992836033,
+    "control": 1.9042410936068885,
+    "gain": 0.006322430688501346
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.9086318647372145,
+    "control": 1.9086257752207607,
+    "gain": -0.00031905240581020695
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 3.218383745449622,
+    "control": 3.2183916405534116,
+    "gain": 0.00024531208975201065
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.0997334701405905,
+    "control": 3.0997252672200344,
+    "gain": -0.0002646337932877758
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.430728561412066,
+    "control": 3.430422098985109,
+    "gain": -0.008933665249169572
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 3.218383745449622,
+    "control": 3.2183916405534116,
+    "gain": 0.00024531208975201065
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.0997334701405905,
+    "control": 3.0997252672200344,
+    "gain": -0.0002646337932877758
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "ClusterTrace",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.430728561412066,
+    "control": 3.430422098985109,
+    "gain": -0.008933665249169572
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.8169665074707595,
+    "control": 1.8169711305036007,
+    "gain": 0.0002544362298111905
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.8198370623008402,
+    "control": 1.8198406629584898,
+    "gain": 0.00019785565422746418
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.8165143876059169,
+    "control": 1.8165251441078367,
+    "gain": 0.0005921471527509518
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.8169665074707595,
+    "control": 1.8169685843750698,
+    "gain": 0.0001143060110213824
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.8198370623008402,
+    "control": 1.8198385513536608,
+    "gain": 8.182334743347422e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.8165143876059169,
+    "control": 1.8165196463502198,
+    "gain": 0.0002894955919398408
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.827557945914506,
+    "control": 1.8275397121790813,
+    "gain": -0.0009977203397075896
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.8604018051129778,
+    "control": 1.8604035690703562,
+    "gain": 9.481584575051093e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.842538094990223,
+    "control": 1.8426214234834455,
+    "gain": 0.0045222796262145565
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.827557945914506,
+    "control": 1.827542871693319,
+    "gain": -0.0008248354345243527
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.8604018051129778,
+    "control": 1.8604040069060002,
+    "gain": 0.00011835026231808756
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.842538094990223,
+    "control": 1.8427186279659196,
+    "gain": 0.009797099402843476
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.5144331029226716,
+    "control": 1.5144331107173397,
+    "gain": 5.146921291525991e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4891394976530816,
+    "control": 1.4891395345889769,
+    "gain": 2.4803515300823042e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.3990109900057937,
+    "control": 1.399010939108569,
+    "gain": -3.6380862532462727e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.5144331029226716,
+    "control": 1.5144330998713622,
+    "gain": -2.0148195569734653e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4891394976530816,
+    "control": 1.4891395302731152,
+    "gain": 2.190529020286522e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "CESNET",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.3990109900057937,
+    "control": 1.3990109411465301,
+    "gain": -3.4924146828970125e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.1980820487059876,
+    "control": 1.1980830309031827,
+    "gain": 8.198072836332402e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.1996759722696657,
+    "control": 1.199684003320349,
+    "gain": 0.0006694305051278852
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.1987495391549563,
+    "control": 1.1987553417293613,
+    "gain": 0.00048404993103899407
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.1980820487059876,
+    "control": 1.198084751756364,
+    "gain": 0.0002256142875080782
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.1996759722696657,
+    "control": 1.1996819861790333,
+    "gain": 0.0005012919621109215
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.1987495391549563,
+    "control": 1.198756906346464,
+    "gain": 0.0006145692649386246
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.1855233894485302,
+    "control": 1.1855233716077507,
+    "gain": -1.5048863605437872e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.2841319662947135,
+    "control": 1.2846218961738334,
+    "gain": 0.03813806074605406
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.2282583947650525,
+    "control": 1.2282583422354398,
+    "gain": -4.276756025451803e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.1855233894485302,
+    "control": 1.1855233494122697,
+    "gain": -3.3770959086476073e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.2841319662947135,
+    "control": 1.2840690005370892,
+    "gain": -0.00490361169049216
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.2282583947650525,
+    "control": 1.2282583416214516,
+    "gain": -4.3267445497771436e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.4699985753682419,
+    "control": 1.470000597577736,
+    "gain": 0.00013756521578367766
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.472599659136838,
+    "control": 1.4726018033135881,
+    "gain": 0.0001456046532964331
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.4789548947377962,
+    "control": 1.4789550478405116,
+    "gain": 1.0352087145450031e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.4699985753682419,
+    "control": 1.4700005980863027,
+    "gain": 0.0001375998120991706
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.472599659136838,
+    "control": 1.4726033298694983,
+    "gain": 0.0002492682575016487
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "EPA-Air",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.4789548947377962,
+    "control": 1.4789553444675192,
+    "gain": 3.040860731191523e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.2823132147030134,
+    "control": 0.2820052774822712,
+    "gain": -0.10919555247030499
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.27052121298339743,
+    "control": 0.27028559928767654,
+    "gain": -0.08717212324365067
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.25013959406938785,
+    "control": 0.2500471066108156,
+    "gain": -0.03698801390900207
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.2823132147030134,
+    "control": 0.2822827874195493,
+    "gain": -0.010779007725632886
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.27052121298339743,
+    "control": 0.27028070836663703,
+    "gain": -0.08898327158228016
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.25013959406938785,
+    "control": 0.24982790595131935,
+    "gain": -0.12476112981919577
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 0.32089302935020714,
+    "control": 0.32089299720477743,
+    "gain": -1.0017491807857086e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 0.3209229518015485,
+    "control": 0.32092291637439196,
+    "gain": -1.1039148260877427e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 0.32092351039771255,
+    "control": 0.32092349119190167,
+    "gain": -5.984545043671541e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 0.32089302935020714,
+    "control": 0.32089446613084877,
+    "gain": 0.000447742417920774
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 0.3209229518015485,
+    "control": 0.3209233427824086,
+    "gain": 0.0001218299849075478
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 0.32092351039771255,
+    "control": 0.3209235622557524,
+    "gain": 1.6159000447891336e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 3.3436361346587233,
+    "control": 3.34363620900069,
+    "gain": 2.2233868207510288e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 3.3115841534084507,
+    "control": 3.3115841701259856,
+    "gain": 5.048198702831551e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 3.6122327903588385,
+    "control": 3.612233433467974,
+    "gain": 1.7803642748121808e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 3.3436361346587233,
+    "control": 3.343636459297428,
+    "gain": 9.709150763222329e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 3.3115841534084507,
+    "control": 3.3115841549410647,
+    "gain": 4.628038920270835e-08
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "FNSPID",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 3.6122327903588385,
+    "control": 3.6122329309739647,
+    "gain": 3.892748028617286e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.278472026285065,
+    "control": 1.27847152833761,
+    "gain": -3.894865423358569e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.1691630008014429,
+    "control": 1.1691629794822076,
+    "gain": -1.8234613685330895e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.1434106137276832,
+    "control": 1.1434106100941597,
+    "gain": -3.17779409253048e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.278472026285065,
+    "control": 1.2784724615449115,
+    "gain": 3.404530480551075e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.1691630008014429,
+    "control": 1.1691630110360995,
+    "gain": 8.753832084236246e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "selective_ssm",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.1434106137276832,
+    "control": 1.1434106257383154,
+    "gain": 1.0504216067406434e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 1.4090733021072268,
+    "control": 1.4090726220621546,
+    "gain": -4.826188952980666e-05
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 1.4074983391730984,
+    "control": 1.4074983555603087,
+    "gain": 1.1642791759360328e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 1.4108349016051482,
+    "control": 1.410834897576142,
+    "gain": -2.855760264131121e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 1.4090733021072268,
+    "control": 1.409070906604098,
+    "gain": -0.00017000586113316945
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 1.4074983391730984,
+    "control": 1.4074983533707734,
+    "gain": 1.0087169907965085e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_recavg_gradd",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 1.4108349016051482,
+    "control": 1.4108349195231493,
+    "gain": 1.2700281822424567e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 53,
+    "aligned": 2.0524712723991967,
+    "control": 2.052471304865961,
+    "gain": 1.581837675931937e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 67,
+    "aligned": 2.105989100639712,
+    "control": 2.1059891245261615,
+    "gain": 1.1342152449363775e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_rotation",
+    "seed": 79,
+    "aligned": 2.0570135255316986,
+    "control": 2.057013562724467,
+    "gain": 1.8080954396510236e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 53,
+    "aligned": 2.0524712723991967,
+    "control": 2.052471282120523,
+    "gain": 4.7364006966685356e-07
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 67,
+    "aligned": 2.105989100639712,
+    "control": 2.1059891314030317,
+    "gain": 1.4607539722200062e-06
+  },
+  {
+    "encoder": "finbert",
+    "dataset": "RepoHealth",
+    "family": "immtsf_t2v_xattn",
+    "condition": "history_nearest_swap",
+    "seed": 79,
+    "aligned": 2.0570135255316986,
+    "control": 2.057013574043398,
+    "gain": 2.358355829951131e-06
+  }
+]

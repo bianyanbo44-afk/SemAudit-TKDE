@@ -1,0 +1,11 @@
+﻿dataset,condition,slots,changed_vectors,changed_fraction,histories,changed_histories,zero_or_singleton_histories,donor_after_cutoff,invariants,donor_scope
+ClusterTrace,history_rotation,132,126,0.9545454545454546,69,63,6,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+ClusterTrace,history_nearest_swap,132,126,0.9545454545454546,69,63,6,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+CESNET,history_rotation,16,7,0.4375,12,3,9,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+CESNET,history_nearest_swap,16,6,0.375,12,3,9,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+EPA-Air,history_rotation,176,164,0.9318181818181818,43,37,6,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+EPA-Air,history_nearest_swap,176,158,0.8977272727272727,43,37,6,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+FNSPID,history_rotation,5944,5869,0.9873822341857336,321,321,0,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+FNSPID,history_nearest_swap,5944,5794,0.974764468371467,321,321,0,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+RepoHealth,history_rotation,2479,2479,1.0,80,80,0,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"
+RepoHealth,history_nearest_swap,2479,2400,0.9681323114158935,80,80,0,0,True,"same entity, split and recipient history; all donor arrivals by cutoff"

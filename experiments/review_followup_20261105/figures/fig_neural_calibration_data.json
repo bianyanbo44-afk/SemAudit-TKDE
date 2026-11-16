@@ -1,0 +1,167 @@
+[
+  {
+    "family": "selective_ssm",
+    "strength": 0.0,
+    "worlds": 5,
+    "mean_fixed_sag": 0.003183751972080307,
+    "world_t95_low": -0.005531513038054603,
+    "world_t95_high": 0.011899016982215217,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "selective_ssm",
+    "strength": 0.05,
+    "worlds": 5,
+    "mean_fixed_sag": 0.10995175549266978,
+    "world_t95_low": -0.02059897791533613,
+    "world_t95_high": 0.2405024889006757,
+    "holm_detections": 0,
+    "nominal_detections": 2,
+    "screened_detections": 0
+  },
+  {
+    "family": "selective_ssm",
+    "strength": 0.1,
+    "worlds": 5,
+    "mean_fixed_sag": 1.7432829804337178,
+    "world_t95_low": 0.9585750486504114,
+    "world_t95_high": 2.527990912217024,
+    "holm_detections": 0,
+    "nominal_detections": 3,
+    "screened_detections": 3
+  },
+  {
+    "family": "selective_ssm",
+    "strength": 0.25,
+    "worlds": 5,
+    "mean_fixed_sag": 10.824037663067838,
+    "world_t95_low": 8.53081759555881,
+    "world_t95_high": 13.117257730576865,
+    "holm_detections": 4,
+    "nominal_detections": 5,
+    "screened_detections": 5
+  },
+  {
+    "family": "selective_ssm",
+    "strength": 1.0,
+    "worlds": 5,
+    "mean_fixed_sag": 56.5705589284345,
+    "world_t95_low": 51.981038323970054,
+    "world_t95_high": 61.16007953289895,
+    "holm_detections": 5,
+    "nominal_detections": 5,
+    "screened_detections": 5
+  },
+  {
+    "family": "immtsf_recavg_gradd",
+    "strength": 0.0,
+    "worlds": 5,
+    "mean_fixed_sag": -5.587066497712662e-05,
+    "world_t95_low": -0.0006262559808046846,
+    "world_t95_high": 0.0005145146508504314,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_recavg_gradd",
+    "strength": 0.05,
+    "worlds": 5,
+    "mean_fixed_sag": 0.0001019928284978607,
+    "world_t95_low": -0.0003189898550533014,
+    "world_t95_high": 0.0005229755120490227,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_recavg_gradd",
+    "strength": 0.1,
+    "worlds": 5,
+    "mean_fixed_sag": 1.1847547957844482e-05,
+    "world_t95_low": -0.0004610404421585003,
+    "world_t95_high": 0.00048473553807418924,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_recavg_gradd",
+    "strength": 0.25,
+    "worlds": 5,
+    "mean_fixed_sag": 0.0016352544121387106,
+    "world_t95_low": -0.0032599193142262926,
+    "world_t95_high": 0.006530428138503713,
+    "holm_detections": 0,
+    "nominal_detections": 1,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_recavg_gradd",
+    "strength": 1.0,
+    "worlds": 5,
+    "mean_fixed_sag": 0.787727145150025,
+    "world_t95_low": -0.693584032066894,
+    "world_t95_high": 2.269038322366944,
+    "holm_detections": 2,
+    "nominal_detections": 2,
+    "screened_detections": 1
+  },
+  {
+    "family": "immtsf_t2v_xattn",
+    "strength": 0.0,
+    "worlds": 5,
+    "mean_fixed_sag": -0.000671331799367743,
+    "world_t95_low": -0.0018013210831875014,
+    "world_t95_high": 0.0004586574844520156,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_t2v_xattn",
+    "strength": 0.05,
+    "worlds": 5,
+    "mean_fixed_sag": -0.0027179812879497955,
+    "world_t95_low": -0.0075912862881184805,
+    "world_t95_high": 0.0021553237122188896,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_t2v_xattn",
+    "strength": 0.1,
+    "worlds": 5,
+    "mean_fixed_sag": 0.0811681442370478,
+    "world_t95_low": -0.05463113937536179,
+    "world_t95_high": 0.21696742784945738,
+    "holm_detections": 0,
+    "nominal_detections": 0,
+    "screened_detections": 0
+  },
+  {
+    "family": "immtsf_t2v_xattn",
+    "strength": 0.25,
+    "worlds": 5,
+    "mean_fixed_sag": 3.4877820934725774,
+    "world_t95_low": -1.655712414740858,
+    "world_t95_high": 8.631276601686013,
+    "holm_detections": 0,
+    "nominal_detections": 3,
+    "screened_detections": 3
+  },
+  {
+    "family": "immtsf_t2v_xattn",
+    "strength": 1.0,
+    "worlds": 5,
+    "mean_fixed_sag": 11.601121079819162,
+    "world_t95_low": 4.7969562254335,
+    "world_t95_high": 18.405285934204823,
+    "holm_detections": 3,
+    "nominal_detections": 5,
+    "screened_detections": 5
+  }
+]

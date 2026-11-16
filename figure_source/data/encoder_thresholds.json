@@ -1,0 +1,92 @@
+[
+  {
+    "encoder": "gpt2",
+    "threshold": 0,
+    "count": 2
+  },
+  {
+    "encoder": "gpt2",
+    "threshold": 0.01,
+    "count": 1
+  },
+  {
+    "encoder": "gpt2",
+    "threshold": 0.1,
+    "count": 0
+  },
+  {
+    "encoder": "gpt2",
+    "threshold": 0.5,
+    "count": 0
+  },
+  {
+    "encoder": "gpt2",
+    "threshold": 1,
+    "count": 0
+  },
+  {
+    "encoder": "gpt2",
+    "threshold": 2,
+    "count": 0
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 0,
+    "count": 5
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 0.01,
+    "count": 4
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 0.1,
+    "count": 3
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 0.5,
+    "count": 2
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 1,
+    "count": 1
+  },
+  {
+    "encoder": "minilm",
+    "threshold": 2,
+    "count": 0
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 0,
+    "count": 6
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 0.01,
+    "count": 5
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 0.1,
+    "count": 2
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 0.5,
+    "count": 1
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 1,
+    "count": 1
+  },
+  {
+    "encoder": "finbert",
+    "threshold": 2,
+    "count": 1
+  }
+]
