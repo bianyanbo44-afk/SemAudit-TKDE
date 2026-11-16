@@ -36,8 +36,11 @@ def download(row, destination):
         try:
             with urllib.request.urlopen(request, timeout=60) as source, temporary.open('wb') as output:
                 shutil.copyfileobj(source, output)
+            if row.get('line_endings') == 'crlf':
+                content = temporary.read_bytes().replace(b'\r\n', b'\n').replace(b'\n', b'\r\n')
+                temporary.write_bytes(content)
             if sha(temporary) != row['sha256']:
-                raise ValueError('SHA-256 mismatch for ' + destination.name)
+                raise ValueError('SHA-256 mismatch for ' + str(destination))
             temporary.replace(destination)
             return
         except (OSError, ValueError):

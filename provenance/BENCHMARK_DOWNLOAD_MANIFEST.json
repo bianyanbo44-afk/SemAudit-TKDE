@@ -3,456 +3,532 @@
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.178.41/text.csv",
     "bytes": 2493,
     "sha256": "27427f77ab312584d5d1f1e64d53b1c83fc471a07d61a79dfbe80718c3d04f3f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.178.41/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.178.41/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.178.41/time_series.csv",
     "bytes": 245569,
     "sha256": "7b17e5c891ec7e455a93efccc9e74e2a91f8dd6f40fbad383eb2ceecdc3d379e",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.178.41/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.178.41/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.212.206/text.csv",
     "bytes": 3379,
     "sha256": "267f109ddb0681ebc0d45d5a644a7048290f374b5caa2333fbd4fbdd2790812f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.212.206/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.212.206/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.212.206/time_series.csv",
     "bytes": 240750,
     "sha256": "6c141761c6289a6ddcf3ec7b0a84d402b087f99358c9c7a7e70e0483bcc72c07",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.212.206/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.212.206/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.31.13/text.csv",
     "bytes": 2586,
     "sha256": "ca4ed23e1ab7142723db684be054a729580e491e17891a285398c952611e966e",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.31.13/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.31.13/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.31.13/time_series.csv",
     "bytes": 226247,
     "sha256": "2af7b71e3e37554f036bfab7208e293b45277a59f337a799cfa03af3f1723d6f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.31.13/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.31.13/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.64.221/text.csv",
     "bytes": 3369,
     "sha256": "f5e6f34b8991eab5a50be132b88ad688274e5860f9e9b1f1a4203c76a00bfd2b",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.64.221/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.64.221/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.64.221/time_series.csv",
     "bytes": 208489,
     "sha256": "3365aa5a44fec177092336d41af2c2afeceeb9a47fb82438184912744a9a37ab",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.64.221/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.64.221/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.90.172/text.csv",
     "bytes": 3803,
     "sha256": "fd08ca4a6750f4b41aa73077afec27de82ef05e0fd5d85322f6da829198387e6",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.90.172/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.90.172/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/10.0.90.172/time_series.csv",
     "bytes": 220104,
     "sha256": "501fe6dc1b3b126b2fb024ce2f0486d73d711a3ab14f15feb10ac9f2af0ce70c",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.90.172/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/10.0.90.172/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/firewall-3127/text.csv",
     "bytes": 3364,
     "sha256": "df17ea697291c81d72372ce31961c7df022e43b25752101861d92630ecb18127",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-3127/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-3127/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/firewall-3127/time_series.csv",
     "bytes": 224895,
     "sha256": "5ad72cef56cb13329ca1dea45f16522682f157a8b0bc7f2b367ce32d37e99fbc",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-3127/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-3127/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/firewall-8704/text.csv",
     "bytes": 2925,
     "sha256": "2b6e0211ee7d96507123b7ac2f5d2aa30c085c5a4617a20f76622db9ac04bc5f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-8704/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-8704/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/firewall-8704/time_series.csv",
     "bytes": 238293,
     "sha256": "b4aab5faec8b86c14f3c586a904f49a82032a5d14044a1007487af913146cc9b",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-8704/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/firewall-8704/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/router-1902/text.csv",
     "bytes": 2895,
     "sha256": "4723d838d364ed4fe1446419c293e16359a62e1a1543e17e398fb96f2f365072",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-1902/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-1902/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/router-1902/time_series.csv",
     "bytes": 215418,
     "sha256": "f85de4fbc44ca609196385d1498ef531172703d8436151364d8dbbc59f608e3f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-1902/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-1902/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/router-7669/text.csv",
     "bytes": 3339,
     "sha256": "628ad03f6e48e75d593b36937417b4504f69ac5d288ac0c5dfb438836563a8cd",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-7669/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-7669/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/router-7669/time_series.csv",
     "bytes": 226813,
     "sha256": "8f6c6acd1ad972e404669c30b40e962d6ca64d2ce97c2a46cacd6e227b215cff",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-7669/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/router-7669/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/server-1245/text.csv",
     "bytes": 2522,
     "sha256": "14917e7c46021865e08713ab62c4522a94a04cd8e6ab3bbf663436611d775829",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/server-1245/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/server-1245/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/server-1245/time_series.csv",
     "bytes": 214907,
     "sha256": "a75f93f036859ed512b895d00a858d6ede6ec30327ee51f257fe21df77c70676",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/server-1245/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/server-1245/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/switch-9995/text.csv",
     "bytes": 3296,
     "sha256": "a9073c2c33c6a2d1950760f9190f047963d2a26d517dac62571e2c824ad6d47d",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/switch-9995/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/switch-9995/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/CESNET/processed/switch-9995/time_series.csv",
     "bytes": 218312,
     "sha256": "e456eca200cd5251b2a5a46317729099780fbc0ae04e5b25996b26859a7c237f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/switch-9995/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/CESNET/processed/switch-9995/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/text.csv",
     "bytes": 201480,
     "sha256": "e381c58656006cd3611121bf563bf20502d2a68ab7fdd5f4759cf1119ab0d1c4",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/time_series.csv",
     "bytes": 300368,
     "sha256": "23533ac1c364af28bf198cc4defa21212f26c6cf72133d1bca77701baf0ce54f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/1c6afd5c227e89b8a29589f4/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/text.csv",
     "bytes": 150772,
     "sha256": "82ef15fe1bccd512bba40fe08b80646e721d9296809361ccedfc084666407bc3",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/time_series.csv",
     "bytes": 739088,
     "sha256": "15d3003650a477ece92c505c1b588b356e49bc71880e6db549afb3db7b9e138f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/35fc40d2844c0b899c1ceb1e/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/text.csv",
     "bytes": 200552,
     "sha256": "5d78d61b50502fb470206433380f8a3ed5874bed2ceaed123d39e829386a0bef",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/time_series.csv",
     "bytes": 300099,
     "sha256": "473f6b6af6c185de5c9ce0bc67336e4f1dde72fcf49291cbca1877fc8f97a9f0",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/ClusterTrace/processed/7077ec572d50395cafcbcb7d/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Bexar/text.csv",
     "bytes": 11274,
     "sha256": "1be07464c56e7b113decfc5fe0c385075b4a18281ea65a305141561c7387d8ea",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Bexar/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Bexar/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Bexar/time_series.csv",
     "bytes": 172661,
     "sha256": "a5d617678336629ad4d7b76b5ae884b931eb6dbe7e7f7aa9bd5642851893a168",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Bexar/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Bexar/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Dallas/text.csv",
     "bytes": 140749,
     "sha256": "789e8e5eee1d4b4c01a3d16fe6c84076bbe1e34f60e39eb7c67dfa4f2ccf64e5",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Dallas/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Dallas/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Dallas/time_series.csv",
     "bytes": 174847,
     "sha256": "b85d75087336adbc537e4bceac81bd1911912ea894afba79444afd378ec1da64",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Dallas/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Dallas/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Denver/text.csv",
     "bytes": 145378,
     "sha256": "4500efdfe23e7a49ddbf514a76d380b8f553049913e2cfd50aef831690a1a7c9",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Denver/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Denver/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Denver/time_series.csv",
     "bytes": 224988,
     "sha256": "b6b2d07b6069060f4348e80eb3f29845820182d8321d9f04b364f874d49b2989",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Denver/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Denver/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Hillsborough/text.csv",
     "bytes": 53860,
     "sha256": "f661bf39ea6da46ec2a1d94d30b9fa6506d6c632775f53e956e3ed8eff737bc8",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Hillsborough/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Hillsborough/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Hillsborough/time_series.csv",
     "bytes": 216867,
     "sha256": "9fc3b86023d3c3172a027853b33cac216ea033a4a33ddee4d70d99f8c04be097",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Hillsborough/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Hillsborough/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Los_Angeles/text.csv",
     "bytes": 153503,
     "sha256": "a7ce1e53190c089610b76e4e7f85535a44bfbf2ff6a441807c63a9e9a460393e",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Los_Angeles/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Los_Angeles/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Los_Angeles/time_series.csv",
     "bytes": 247390,
     "sha256": "07ca6a0f3a7e3242ef844f162c6106cf3cb4628a25d6b41d0d1103a491066972",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Los_Angeles/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Los_Angeles/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Maricopa/text.csv",
     "bytes": 72481,
     "sha256": "c975962e2c08115ac953f90e4061e1d433ebfa4524c18ef94e75840be105ff40",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Maricopa/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Maricopa/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Maricopa/time_series.csv",
     "bytes": 262968,
     "sha256": "492df0a7943c3163d44bdb6b977147ed8193e9e8a4b3b3e22dff56a8edb8a0b6",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Maricopa/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Maricopa/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Philadelphia/text.csv",
     "bytes": 132761,
     "sha256": "2877b0cc17313185fdac1d6356feae413ad304072be0b45febc93697ac9bfd99",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Philadelphia/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Philadelphia/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Philadelphia/time_series.csv",
     "bytes": 191669,
     "sha256": "b44360f432c6acd0318fa0b497f41316faaf467ba81fcba3b371aa3779c1d9ac",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Philadelphia/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Philadelphia/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Richmond/text.csv",
     "bytes": 140194,
     "sha256": "37d4d5c46e235e05e05082519dbf95747cddcb0b33d2ff7c03fb51257bc7e67c",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Richmond/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Richmond/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/EPA-Air/processed/Richmond/time_series.csv",
     "bytes": 255755,
     "sha256": "89f0a18c3f58f3f6917236ab041c828b828121267ce7e340a7d578b37d363f9a",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Richmond/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/EPA-Air/processed/Richmond/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/AMAT/text.csv",
     "bytes": 1303636,
     "sha256": "8e3f3997b6430b90f0e27741257cba3220e580d25a0bf65d7f33270f396f6445",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMAT/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMAT/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/AMAT/time_series.csv",
     "bytes": 402184,
     "sha256": "e6a44820295644b8e843f96726d6e00b855664cc836dee37b0c8230116c446a2",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMAT/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMAT/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/AMT/text.csv",
     "bytes": 1484490,
     "sha256": "d9acd426ad63f7de2084d9f00a645f2454c59429b7a680473cf0707af83dd432",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMT/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMT/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/AMT/time_series.csv",
     "bytes": 394709,
     "sha256": "cb84da5fa8edc691fd375192524ffd0abc16299e435bab11c4e92a0e43ac4a96",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMT/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/AMT/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/DVN/text.csv",
     "bytes": 1299268,
     "sha256": "a0cd20e89033900f3a92397f0dbf1b8e72b12718d350d9a8a710f173db4a3165",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/DVN/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/DVN/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/DVN/time_series.csv",
     "bytes": 405916,
     "sha256": "470456304413019f517cb50da7dc4f699b831fa98fb0e345ec64bbbe0d8f807d",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/DVN/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/DVN/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/EA/text.csv",
     "bytes": 1469208,
     "sha256": "ac3a9f2bd7f14721237cd208ebe77d9f483b8b38e68081343533ff3d415ebf54",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EA/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EA/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/EA/time_series.csv",
     "bytes": 336101,
     "sha256": "5d6379a70de15c4368c2a3425aa07a5e6aeb5edcf2cf9c80d29762062027e5ac",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EA/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EA/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/EXPE/text.csv",
     "bytes": 1140240,
     "sha256": "a6fdb9be8052e63aa2bc59af630556ac0b469121fbd6766c4dc30c18260fbbd0",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EXPE/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EXPE/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/EXPE/time_series.csv",
     "bytes": 388389,
     "sha256": "0f216faf5ec0149d5d0ec33d10817d0694b49b7c40eb009a12129ecff3296f97",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EXPE/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/EXPE/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/KO/text.csv",
     "bytes": 2426562,
     "sha256": "535f566597940f0acfc6c14612cdb95905feeff72a36e91a6f8d87385465f371",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/KO/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/KO/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/KO/time_series.csv",
     "bytes": 407022,
     "sha256": "3e9908c43daefec1a88c3991b7a64e213abd6d17a7b501c826a5e48c3b8ea61b",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/KO/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/KO/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/PEP/text.csv",
     "bytes": 1897244,
     "sha256": "9a244b0b27c57b5d5a0ca3e8995404a4bce746b7aa538624e5b2e6c30390076f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/PEP/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/PEP/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/PEP/time_series.csv",
     "bytes": 399087,
     "sha256": "569c63c669786b0d8d254c1af339e7d70dbc2a373c43c7f5297c541ad5992f72",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/PEP/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/PEP/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/TXN/text.csv",
     "bytes": 1400504,
     "sha256": "84bda4804d0ccad875a93768e98543a3e09c834e3d4fac1cdbb4223a30aefdcb",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/TXN/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/TXN/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/TXN/time_series.csv",
     "bytes": 396830,
     "sha256": "ea5f935f4d1facdc2d08979cfe732a94def206f245c88f04177573eb5a55aa34",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/TXN/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/TXN/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/USO/text.csv",
     "bytes": 1943275,
     "sha256": "1a370eab5785e91b135f73efea59fcc524379d06ed9418c39f591dab4fd81bfc",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/USO/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/USO/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/USO/time_series.csv",
     "bytes": 409579,
     "sha256": "760a9b1f59d401fe2b95f6c9b9a342e709d1a9a9d7ad7613f3eb7ccb8d3a1efa",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/USO/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/USO/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/XLF/text.csv",
     "bytes": 1803249,
     "sha256": "d2f9c6c9f65a34611e166cdc6b4f56c838d16b7f5891d78198e5506500047b81",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/XLF/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/XLF/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/FNSPID/processed/XLF/time_series.csv",
     "bytes": 424524,
     "sha256": "8bea45378a9bd1cf6da7d95e529167a9ec107a61dbc46b8d27cbce9a8a8e2010",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/XLF/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/FNSPID/processed/XLF/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/facebook_react/schedule_intervals.csv",
     "bytes": 36211,
     "sha256": "b58ca5cd35d961b5c995170bed49d2bf8bf5e04b39a6a2c2f6f17cc81cbde831",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/schedule_intervals.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/schedule_intervals.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/facebook_react/text.csv",
     "bytes": 4066745,
     "sha256": "929e76858940be15cf5010a0d8b1c7056e109b4f86ef79680be9f16b44c0cefc",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/facebook_react/time_series.csv",
     "bytes": 56153,
     "sha256": "8847d6ac9af966044ed0d49c422fce2f73fe2acffd380c68e5a9d51174ca847f",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/facebook_react/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/huggingface_transformers/schedule_intervals.csv",
     "bytes": 96716,
     "sha256": "3edde634be6973c95a842f63ba7497c55f3c75a6ef2fb5e87333e7aa2a395442",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/schedule_intervals.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/schedule_intervals.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/huggingface_transformers/text.csv",
     "bytes": 2317357,
     "sha256": "8ab69e5de7a1d74256b7a1d077399c2b8f8fa7e09bec9cbe446c7f6f9efa030a",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/huggingface_transformers/time_series.csv",
     "bytes": 164913,
     "sha256": "e554144f9e44c8557a52cbccc6e565d6328fb0f70451ffa6dc6bff93e532c7ca",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/huggingface_transformers/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/kubernetes_kubernetes/schedule_intervals.csv",
     "bytes": 130441,
     "sha256": "3a58304a529eaa9b4e00ac77208d1b7c8ae38a337d38434f65acdb9587e3d7c5",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/schedule_intervals.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/schedule_intervals.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/kubernetes_kubernetes/text.csv",
     "bytes": 3882940,
     "sha256": "f0ea00a4c41fd728b0af67b641c1983593e83abf074af4bf1b33b7993db170fe",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/kubernetes_kubernetes/time_series.csv",
     "bytes": 225028,
     "sha256": "e1baf4a1f160a93741e267e814addf3a888ff252c9b78595ace30adaf1493cdf",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/kubernetes_kubernetes/time_series.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/pytorch_pytorch/schedule_intervals.csv",
     "bytes": 164356,
     "sha256": "1c415a5db625db372f6d8de44e30a4efc70dbadc3ac1b80153bdc996f5dbb0e8",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/schedule_intervals.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/schedule_intervals.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/pytorch_pytorch/text.csv",
     "bytes": 3206635,
     "sha256": "7aced0e40f78245e7e4ebc33e6791f757cca01877b5de6b47dba044b294695b2",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/text.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/text.csv",
+    "line_endings": "crlf"
   },
   {
     "file": "runtime/phase3_prototype/external/Time-IMM/data/RepoHealth/processed/pytorch_pytorch/time_series.csv",
     "bytes": 265577,
     "sha256": "9c726cac38ee05e9e21cf0c55863d6d84b1e55714aba51e4ef4b14053b757c61",
-    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/time_series.csv"
+    "url": "https://raw.githubusercontent.com/blacksnail789521/Time-IMM/e934cef23d526817dcf0d1a66c6f82274c96c04b/data/RepoHealth/processed/pytorch_pytorch/time_series.csv",
+    "line_endings": "crlf"
   }
 ]

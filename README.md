@@ -25,7 +25,7 @@ The release contains all 1095 journal follow-up checkpoints and 2175 prediction 
 python tools/fetch_materials.py --kind data
 ```
 
-The downloader retrieves the exact five-domain CSV inputs from the official Time-IMM repository at commit `e934cef23d526817dcf0d1a66c6f82274c96c04b` and verifies their hashes. The release supplies the frozen GPT-2, MiniLM and FinBERT encoding caches used by the experiments. Original data access follows the providers' terms. The pinned source and file records are in `provenance/BENCHMARK_DOWNLOAD_MANIFEST.json`.
+The downloader retrieves the exact five-domain CSV inputs from the official Time-IMM repository at commit `e934cef23d526817dcf0d1a66c6f82274c96c04b` and restores their recorded line endings before verifying their hashes. The release supplies the frozen GPT-2, MiniLM and FinBERT encoding caches used by the experiments. Original data access follows the providers' terms. The pinned source and file records are in `provenance/BENCHMARK_DOWNLOAD_MANIFEST.json`.
 
 ## Training and inference
 
