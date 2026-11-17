@@ -4,6 +4,10 @@ Research materials for **Representation-Dependent Semantic Reliance in Irregular
 
 This repository provides the training and evaluation implementation, experiment configurations, content interventions, generated calibration inputs, task-model checkpoints, paired predictions, verification records, and figure source data. Versioned binary artifacts are available in the `tkde-materials-v1` release. Every release archive and restored research file has a SHA-256 manifest.
 
+![Representation-specific semantic audit](figure_source/fig1_audit_mechanism.png)
+
+Figure 1 was redrawn in Adobe Illustrator on 17 November 2026. The editable AI and SVG, publication PDF, 600 dpi PNG and verified object records are in `figure_source/mechanism_illustrator`.
+
 ## Restore and verify the evidence
 
 Use Python 3.12. Saved-prediction replay requires NumPy. Training and checkpoint inference use the packages in `requirements.txt` and a CUDA-enabled PyTorch installation. The recorded package versions are in `provenance/environment_versions.json`.
@@ -72,7 +76,7 @@ python runtime/phase3_prototype/scripts/cache_timeimm_text_embeddings.py --data-
 
 The upstream IMM-TSF implementation is pinned at `b9e245f2238a9c35d241dbc5bd943c28193a5b90`. Its license and individual file notices are retained under `runtime/phase3_prototype/external/IMM-TSF`. Time-IMM and pretrained encoder inputs are fetched from their providers. Copyright in author-created materials remains with the authors.
 
-Generate all eight figures with `python tools/reproduce_figures.py`. Rebuild their paired records from the restored predictions and downloaded benchmark inputs with `python tools/reproduce_figures.py --rebuild-data`. The launcher binds the retained plotting sources to the current repository layout.
+Assemble all eight figures with `python tools/reproduce_figures.py`. The command restores the approved Illustrator exports for Figure 1 and renders the seven result plots. Rebuild their paired records from the restored predictions and downloaded benchmark inputs with `python tools/reproduce_figures.py --rebuild-data`. The launcher binds the plotting sources to the current repository layout. The mechanism authoring workflow is documented in `figure_source/mechanism_illustrator/README.md`.
 
 ## Authors and funding
 

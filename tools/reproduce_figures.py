@@ -1,4 +1,4 @@
-"""Rebuild the paired figure records and render the eight scientific figures."""
+"""Rebuild paired figure records and assemble the eight scientific figures."""
 from pathlib import Path
 import argparse
 import importlib.util

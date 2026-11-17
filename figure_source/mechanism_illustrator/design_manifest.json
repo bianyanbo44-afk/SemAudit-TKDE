@@ -1,0 +1,532 @@
+{
+  "title": "Representation-specific semantic audit",
+  "width_mm": 183,
+  "height_mm": 144.57,
+  "minimum_font_pt": 8.040472440944882,
+  "text_blocks": 73,
+  "text_records": [
+    {
+      "text": "a",
+      "x": 20,
+      "y": 27,
+      "size_pt": 11.41228346456693,
+      "approximate_width_pt": 6.354566929133859
+    },
+    {
+      "text": "Matched representation comparison",
+      "x": 49,
+      "y": 27,
+      "size_pt": 10.3748031496063,
+      "approximate_width_pt": 179.61377952755907
+    },
+    {
+      "text": "Numerical history",
+      "x": 24,
+      "y": 58,
+      "size_pt": 8.922330708661418,
+      "approximate_width_pt": 75.21732283464567
+    },
+    {
+      "text": "Numerical inputs retained",
+      "x": 457,
+      "y": 70,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 90.64984251968504
+    },
+    {
+      "text": "Available text",
+      "x": 24,
+      "y": 143,
+      "size_pt": 8.922330708661418,
+      "approximate_width_pt": 57.31470841535433
+    },
+    {
+      "text": "Availability a ≤ q",
+      "x": 24,
+      "y": 227,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 57.70781619094488
+    },
+    {
+      "text": "Frozen encoder",
+      "x": 323,
+      "y": 133,
+      "size_pt": 9.544818897637795,
+      "approximate_width_pt": 71.32677165354332
+    },
+    {
+      "text": "GPT-2",
+      "x": 243,
+      "y": 179,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 23.59659817913386
+    },
+    {
+      "text": "MiniLM",
+      "x": 311,
+      "y": 179,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 27.75259842519685
+    },
+    {
+      "text": "FinBERT",
+      "x": 379,
+      "y": 179,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 33.97748031496063
+    },
+    {
+      "text": "Pooling + truncation",
+      "x": 312,
+      "y": 204,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 70.67834645669292
+    },
+    {
+      "text": "One encoder per configuration",
+      "x": 312,
+      "y": 232,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 107.63858267716536
+    },
+    {
+      "text": "Aligned",
+      "x": 493,
+      "y": 137,
+      "size_pt": 8.507338582677166,
+      "approximate_width_pt": 28.790078740157483
+    },
+    {
+      "text": "Reassigned",
+      "x": 493,
+      "y": 169,
+      "size_pt": 8.507338582677166,
+      "approximate_width_pt": 45.519448818897644
+    },
+    {
+      "text": "Zero",
+      "x": 493,
+      "y": 200,
+      "size_pt": 8.507338582677166,
+      "approximate_width_pt": 17.63716535433071
+    },
+    {
+      "text": "Fusion model",
+      "x": 720,
+      "y": 118,
+      "size_pt": 9.544818897637795,
+      "approximate_width_pt": 62.37850393700788
+    },
+    {
+      "text": "Trainable projection",
+      "x": 720,
+      "y": 190,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 70.15555364173228
+    },
+    {
+      "text": "Selective · RecAvg · Attention",
+      "x": 720,
+      "y": 220,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 106.07425688976379
+    },
+    {
+      "text": "Paired forecasts",
+      "x": 911,
+      "y": 102,
+      "size_pt": 8.818582677165354,
+      "approximate_width_pt": 68.86275590551182
+    },
+    {
+      "text": "q",
+      "x": 913,
+      "y": 193,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 4.409291338582677
+    },
+    {
+      "text": "q+h",
+      "x": 955,
+      "y": 193,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 13.48724409448819
+    },
+    {
+      "text": "Same targets",
+      "x": 911,
+      "y": 220,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 47.46472440944882
+    },
+    {
+      "text": "Same fusion family, budget, paired seeds and forecast units",
+      "x": 500,
+      "y": 254,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 211.37648252952758
+    },
+    {
+      "text": "b",
+      "x": 20,
+      "y": 291,
+      "size_pt": 11.41228346456693,
+      "approximate_width_pt": 7.002992125984252
+    },
+    {
+      "text": "Content interventions on retained event slots",
+      "x": 49,
+      "y": 291,
+      "size_pt": 10.3748031496063,
+      "approximate_width_pt": 224.22543307086616
+    },
+    {
+      "text": "Same recipient event slots",
+      "x": 590,
+      "y": 313,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 93.63259842519686
+    },
+    {
+      "text": "Cutoff q",
+      "x": 943,
+      "y": 342,
+      "size_pt": 8.818582677165354,
+      "approximate_width_pt": 34.10716535433071
+    },
+    {
+      "text": "Aligned",
+      "x": 25,
+      "y": 341,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 34.23685039370079
+    },
+    {
+      "text": "u",
+      "x": 370,
+      "y": 341.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.706141732283465
+    },
+    {
+      "text": "v",
+      "x": 548,
+      "y": 341.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "w",
+      "x": 800,
+      "y": 341.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 7.262362204724409
+    },
+    {
+      "text": "Split shuffle",
+      "x": 25,
+      "y": 382,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 53.430236220472445
+    },
+    {
+      "text": "r",
+      "x": 370,
+      "y": 382.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 3.6311811023622047
+    },
+    {
+      "text": "u",
+      "x": 548,
+      "y": 382.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.706141732283465
+    },
+    {
+      "text": "s",
+      "x": 800,
+      "y": 382.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "Time-only",
+      "x": 25,
+      "y": 423,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 44.09088705708662
+    },
+    {
+      "text": "0",
+      "x": 370,
+      "y": 423.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "0",
+      "x": 548,
+      "y": 423.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "0",
+      "x": 800,
+      "y": 423.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "Within-history",
+      "x": 25,
+      "y": 464,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 62.765532726377955
+    },
+    {
+      "text": "v",
+      "x": 370,
+      "y": 464.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.18740157480315
+    },
+    {
+      "text": "w",
+      "x": 548,
+      "y": 464.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 7.262362204724409
+    },
+    {
+      "text": "u",
+      "x": 800,
+      "y": 464.12,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.706141732283465
+    },
+    {
+      "text": "u, v, w are recipient-history vectors. r, s may come from other windows in the same entity/split.",
+      "x": 25,
+      "y": 510,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 333.2743405511811
+    },
+    {
+      "text": "c",
+      "x": 20,
+      "y": 546,
+      "size_pt": 11.41228346456693,
+      "approximate_width_pt": 6.354566929133859
+    },
+    {
+      "text": "Model operation and known-signal calibration",
+      "x": 49,
+      "y": 546,
+      "size_pt": 10.3748031496063,
+      "approximate_width_pt": 226.68944881889766
+    },
+    {
+      "text": "Condition-retrained",
+      "x": 43,
+      "y": 589,
+      "size_pt": 10.3748031496063,
+      "approximate_width_pt": 96.61535433070867
+    },
+    {
+      "text": "A",
+      "x": 62.5,
+      "y": 625,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 6.743622047244095
+    },
+    {
+      "text": "θA",
+      "x": 134,
+      "y": 654,
+      "size_pt": 9.129826771653544,
+      "approximate_width_pt": 11.541968503937008
+    },
+    {
+      "text": "S",
+      "x": 202.5,
+      "y": 625,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 6.22488188976378
+    },
+    {
+      "text": "θS",
+      "x": 274,
+      "y": 654,
+      "size_pt": 9.129826771653544,
+      "approximate_width_pt": 11.023228346456694
+    },
+    {
+      "text": "T",
+      "x": 342.5,
+      "y": 625,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 5.706141732283465
+    },
+    {
+      "text": "θT",
+      "x": 414,
+      "y": 654,
+      "size_pt": 9.129826771653544,
+      "approximate_width_pt": 10.504488188976378
+    },
+    {
+      "text": "Train and select each condition separately",
+      "x": 43,
+      "y": 678,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 149.3931126968504
+    },
+    {
+      "text": "SAG = 100(S − A)/S  ·  CBTG = 100(T − A)/T",
+      "x": 43,
+      "y": 698,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 159.887469242126
+    },
+    {
+      "text": "Fixed aligned checkpoint",
+      "x": 543,
+      "y": 589,
+      "size_pt": 10.3748031496063,
+      "approximate_width_pt": 124.4976377952756
+    },
+    {
+      "text": "Aligned",
+      "x": 543,
+      "y": 623,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 26.58543307086614
+    },
+    {
+      "text": "u",
+      "x": 632,
+      "y": 623.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 4.928031496062992
+    },
+    {
+      "text": "v",
+      "x": 655,
+      "y": 623.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 4.409291338582677
+    },
+    {
+      "text": "w",
+      "x": 678,
+      "y": 623.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 6.22488188976378
+    },
+    {
+      "text": "Historical",
+      "x": 543,
+      "y": 655,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 33.06968503937008
+    },
+    {
+      "text": "v",
+      "x": 632,
+      "y": 655.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 4.409291338582677
+    },
+    {
+      "text": "w",
+      "x": 655,
+      "y": 655.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 6.22488188976378
+    },
+    {
+      "text": "u",
+      "x": 678,
+      "y": 655.27,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 4.928031496062992
+    },
+    {
+      "text": "θA",
+      "x": 768,
+      "y": 654,
+      "size_pt": 8.29984251968504,
+      "approximate_width_pt": 10.504488188976378
+    },
+    {
+      "text": "A vs H",
+      "x": 899,
+      "y": 638,
+      "size_pt": 9.33732283464567,
+      "approximate_width_pt": 29.04336983267717
+    },
+    {
+      "text": "100(H − A)/H  ·  achieved content changes",
+      "x": 543,
+      "y": 698,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 150.9473068405512
+    },
+    {
+      "text": "Known-signal calibration",
+      "x": 55,
+      "y": 757,
+      "size_pt": 9.077952755905512,
+      "approximate_width_pt": 107.76826771653543
+    },
+    {
+      "text": "Empirical clocks + MiniLM sentences",
+      "x": 43,
+      "y": 779,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 131.1115748031496
+    },
+    {
+      "text": "y = b(X) + λzc + ε",
+      "x": 371,
+      "y": 758,
+      "size_pt": 9.856062992125985,
+      "approximate_width_pt": 76.12511811023623
+    },
+    {
+      "text": "λ ∈ {0, 0.05, 0.1, 0.25, 1}",
+      "x": 371,
+      "y": 779,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 88.31551181102363
+    },
+    {
+      "text": "Both model operations",
+      "x": 688,
+      "y": 757,
+      "size_pt": 9.077952755905512,
+      "approximate_width_pt": 98.82000000000001
+    },
+    {
+      "text": "Capability × detection",
+      "x": 688,
+      "y": 779,
+      "size_pt": 8.040472440944882,
+      "approximate_width_pt": 76.51417322834646
+    }
+  ],
+  "source_files": {
+    "manuscript\\sections\\method.tex": "5eb9bb0f52a0a470075d4df629586999dcaf316a7ce397283dddffafcdf12da7",
+    "manuscript\\sections\\design.tex": "7ab51b0f9c2bafa8fca9fc3d7fff33a8716dde666ea0ebc017e4ec6651276877"
+  },
+  "scientific_mapping": {
+    "a": "Matched natural-data representation configurations with retained numerical input and paired forecast units.",
+    "b": "Entity/split reassignment, occurrence-preserving zeros and history-restricted reassignment use unchanged recipient slots.",
+    "c": "Separate model selection and fixed aligned weights are evaluated on natural tasks and MiniLM known-signal worlds.",
+    "donor_law": "Natural-data S uses split shuffle. Generated-world retraining uses historical rotation.",
+    "symbolic_inputs": "u, v, w belong to a recipient history. r, s are illustrative split-level donors.",
+    "generator_baseline": "b(X) = 0.8 v_last + 0.2 mean(v)"
+  }
+}

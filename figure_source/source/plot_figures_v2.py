@@ -1,8 +1,9 @@
-"""Claim-led KBS figure suite, rendered exclusively with Matplotlib."""
+"""TKDE Illustrator mechanism and seven Matplotlib result figures."""
 from pathlib import Path
 from collections import defaultdict
 import argparse
 import json
+import shutil
 import sys
 import textwrap
 import numpy as np
@@ -83,44 +84,14 @@ def arrow(ax,start,end,color=GREY,style='-|>',lw=.9,rad=0):
         mutation_scale=8,color=color,lw=lw,connectionstyle=f'arc3,rad={rad}',shrinkA=2,shrinkB=2))
 
 def fig1():
-    fig=plt.figure(figsize=(W,5.7))
-    gs=fig.add_gridspec(3,1,left=.075,right=.965,top=.93,bottom=.09,hspace=.55,height_ratios=[1,1.25,1.05])
-    axes=[fig.add_subplot(gs[i])for i in range(3)]
-    for ax in axes:ax.set_axis_off()
-    a,b,c=axes
-    label(a,'a','A shared prediction task, multiple text representations')
-    items=[(.01,.59,.18,.28,'Numerical history'),(.01,.15,.18,.28,'Arrived text'),
-           (.26,.15,.20,.28,'GPT-2 / MiniLM\n/ FinBERT'),(.53,.25,.20,.50,'Same fusion family\n+ training budget'),
-           (.80,.25,.18,.50,'Paired predictions\non common units')]
-    for x,y,w,h,t in items:box(a,x,y,w,h,t,bold=x==.26,fill='#DCEAF2'if x==.26 else LIGHT)
-    a.plot([.20,.49],[.73,.73],transform=a.transAxes,color=GREY,lw=.9)
-    arrow(a,(.49,.73),(.53,.65));arrow(a,(.19,.29),(.26,.29))
-    arrow(a,(.46,.29),(.53,.38));arrow(a,(.73,.50),(.80,.50))
-    a.text(.01,.01,'Forecast units, targets, numerical inputs and event slots are retained.',transform=a.transAxes,fontsize=7.5,color=GREY)
-    label(b,'b','Content controls preserve the event clock')
-    # Illustrative slots, not empirical observations.
-    xpos=[.35,.55,.75];names=['Aligned','Split shuffle','Time-only','Within-history']
-    contents=[['A','B','C'],['D','A','E'],['0','0','0'],['B','A','C']]
-    ypos=[.83,.59,.35,.11]
-    colors={'A':'#D5E6F1','B':'#E8D5C8','C':'#DCE7DC','D':'#DDD7E7','E':'#E3DFC8','0':'#EEF0F2'}
-    for y,title,tokens in zip(ypos,names,contents):
-        b.text(.01,y,title,transform=b.transAxes,ha='left',va='center',fontsize=8)
-        cursor=.27
-        for x in xpos:
-            b.plot([cursor,x-.06],[y,y],transform=b.transAxes,color='#BBC6CD',lw=.8)
-            cursor=x+.06
-        b.plot([cursor,.86],[y,y],transform=b.transAxes,color='#BBC6CD',lw=.8)
-        for x,t in zip(xpos,tokens):box(b,x-.035,y-.065,.07,.13,t,fill=colors[t],edge='white',fs=8,bold=True)
-    b.plot([.88,.88],[.02,.95],transform=b.transAxes,color=INK,lw=.8)
-    b.text(.90,.88,'Forecast\ncutoff',transform=b.transAxes,va='top',fontsize=7.5)
-    b.text(.29,1.01,'Same recipient slots',transform=b.transAxes,fontsize=7.5,color=GREY)
-    b.text(.01,-.13,'Schematic: historical donors A–C; split-level donors may come from other windows (D, E).',transform=b.transAxes,fontsize=7.5,color=GREY)
-    label(c,'c','Complementary audit operations connect effects to decisions')
-    box(c,.01,.18,.44,.62,'CONDITION-RETRAINED\nTrain aligned, shuffled and time-only models\nSAG + CBTG + paired wins',fill='#DCEAF2',edge='#A6BDCE',fs=8)
-    box(c,.54,.18,.44,.62,'FIXED CHECKPOINT\nReassign historical content at fixed weights\nResponse + achieved coverage',fill='#EFE2D8',edge='#CEB59F',fs=8)
-    c.text(.01,-.06,'Generated signal levels calibrate the fixed historical probe and matched retraining responses.',transform=c.transAxes,fontsize=7.5,color=GREY)
-    caption='Representation-specific semantic audit. a, Text representations enter paired forecasting configurations while numerical histories, forecast units and event slots are retained. b, Illustrative content assignments distinguish within-entity/split permutation, occurrence-preserving zero content and historical reassignment. The historical family includes block rotation and nearest-vector swapping; the illustration shows one permitted permutation. c, Separately trained conditions quantify SAG and CBTG, whereas selected aligned checkpoints quantify historical perturbation responses with fixed weights. Natural data use recorded event times as availability times; the generator models arrival delays explicitly.'
-    save(fig,'fig1_audit_mechanism',axes,list('abc'),columns=[list('abc')],caption=caption)
+    master=OUT/'mechanism_illustrator'
+    for extension in ['ai','pdf','png','svg']:
+        filename='fig1_audit_mechanism.'+extension
+        shutil.copy2(master/filename,OUT/filename)
+    caption=(master/'caption.txt').read_text(encoding='utf-8')
+    (OUT/'fig1_audit_mechanism.caption.txt').write_text(caption,encoding='utf-8')
+    CAPTIONS['fig1_audit_mechanism']=caption
+
 
 def fig2():
     rows=load('encoder_summary');seeds=load('encoder_seeds');thresholds=load('encoder_thresholds')
@@ -361,6 +332,6 @@ def main():
     parser=argparse.ArgumentParser();parser.add_argument('--only',nargs='*');args=parser.parse_args()
     funcs={'1':fig1,'2':fig2,'3':fig3,'4':fig4,'5':fig5,'6':fig6,'S1':figS1,'S2':lambda:fig4('cbtg',True)}
     for key,func in funcs.items():
-        if not args.only or key in args.only:func();print('Rendered figure '+key,flush=True)
+        if not args.only or key in args.only:func();print('Prepared figure '+key,flush=True)
 
 if __name__=='__main__':main()
