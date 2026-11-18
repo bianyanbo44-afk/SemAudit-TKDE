@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these research materials, please cite the archived release."
+type: dataset
+title: "SemAudit TKDE research materials"
+authors:
+  - family-names: Bian
+    given-names: Yanbo
+    orcid: "https://orcid.org/0009-0003-0014-8435"
+  - family-names: Wang
+    given-names: Zhihai
+    orcid: "https://orcid.org/0009-0000-4036-9396"
+version: "1.0.0"
+date-released: "2026-11-18"
+doi: "10.5281/zenodo.24319937"
+url: "https://zenodo.org/records/24319937"
+repository-code: "https://github.com/bianyanbo44-afk/SemAudit-TKDE"

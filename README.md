@@ -8,6 +8,12 @@ This repository provides the training and evaluation implementation, experiment 
 
 Figure 1 was redrawn in Adobe Illustrator on 17 November 2026. The editable AI and SVG, publication PDF, 600 dpi PNG and verified object records are in `figure_source/mechanism_illustrator`.
 
+## Archived release and citation
+
+The complete version 1.0.0 research-materials archive is available on Zenodo: [10.5281/zenodo.24319937](https://doi.org/10.5281/zenodo.24319937). It preserves the source snapshot at commit `f6df68b69355023389ea6e849e24717f7169b9d6`, all fifteen training archives, restoration instructions and checksum manifests: 19 files totaling 3,340,489,271 bytes.
+
+Cite this archived release when using these materials. Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+
 ## Restore and verify the evidence
 
 Use Python 3.12. Saved-prediction replay requires NumPy. Training and checkpoint inference use the packages in `requirements.txt` and a CUDA-enabled PyTorch installation. The recorded package versions are in `provenance/environment_versions.json`.
